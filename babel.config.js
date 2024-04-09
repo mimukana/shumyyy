@@ -17,8 +17,10 @@ module.exports = function(api) {
 
   return {
     presets: [
+      "@babel/preset-env",
+      "@babel/preset-react",
       isTestEnv && [
-        '@babel/preset-env',
+        
         {
           targets: {
             node: 'current'
@@ -35,6 +37,7 @@ module.exports = function(api) {
           exclude: ['transform-typeof-symbol']
         }
       ]
+    
     ].filter(Boolean),
     plugins: [
       'babel-plugin-macros',
