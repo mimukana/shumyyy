@@ -1,0 +1,8 @@
+<% @tweets.each do |t| %> 
+    <%= t.about %>
+    <%= link_to "詳細へ", tweet_path(t.id) %>
+    <%= link_to "編集する", edit_tweet_path(t.id) %>
+    <%= button_to "削除する", tweet_path(t.id), method: :delete %>
+<% end %>
+
+<%= link_to "⇐トップに戻る", tweets_path, class: "field3"%>

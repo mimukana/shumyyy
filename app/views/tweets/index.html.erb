@@ -1,0 +1,16 @@
+<h1>自分の題名</h1>
+<h3>トップページ</h3>
+
+
+<%= link_to "新規投稿へ", new_tweet_path %>
+<% if user_signed_in? %>
+  <%= link_to "マイページへ", user_path(current_user.id) %>
+<% end %>
+
+<%= link_to "診断へ", perfumes_path %>
+<br>
+<%= link_to "スポーツ", tweets_result_path %>
+<%= link_to "音楽", tweets_music_path %>
+<%= link_to "料理", tweets_cooking_path %>
+<%= link_to "漫画・アニメ", tweets_anime_path %>
+<%= stylesheet_link_tag 'index', :media => "all" %>

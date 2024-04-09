@@ -1,0 +1,20 @@
+<!DOCTYPE html> <!-- この文章がHTML文章であることを伝える要素です。-->
+<html lang="ja"><!--言語の指定-->
+    <head><!--ページに表示されない情報(サイトの裏側の設定)-->
+        <meta charset="utf-8">
+        <title>香水診断スタート</title><!--ブラウザのタブのタイトルを指定-->
+    </head>
+
+   
+        
+            <h1 class="headline">
+            <a>趣味診断</a>
+            </h1>
+            
+
+        <div class="start">
+            <%= button_to new_perfume_path, method: :get do %>
+                <p>診断を始める</p>
+            <% end %>
+        </div>
+    

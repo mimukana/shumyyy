@@ -1,0 +1,46 @@
+  .field {
+    margin: 1% auto;
+    width: 30%;
+    border: solid #d3def1;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #d3def1;
+  }
+  .title {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 50px;
+  }
+  .form-check {
+    padding-left: 40%;
+    text-align: left;
+  }
+  input[type="submit"] {
+    width: 200px;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    justify-content: center;
+  }
+
+  .field2{
+    justify-content: center;
+    text-align: center;
+  }
+
+  .field3 {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-bottom: 50px;
+    margin-left: 1000px;
+    background-color: #007bff; /* ボタンの背景色 */
+    color: #ffffff; /* ボタンのテキスト色 */
+    text-decoration: none; /* リンクの下線を削除 */
+    border: none; /* ボーダーを削除 */
+    border-radius: 5px; /* ボーダーの角を丸くする */
+    cursor: pointer;
+  }
+  
+
+  
+  

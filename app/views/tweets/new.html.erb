@@ -1,0 +1,44 @@
+<h1>投稿ページ</h1>
+
+<%= form_for @tweet do |f| %>
+
+    <div class="field">
+    <%= f.label :投稿フォーム  %></br>
+    <%= f.text_area :about, :size => "30x2" %>
+  </div>
+
+  <div class="field">
+    <%= f.label :項目名  %>
+    <%= f.select :genre, 
+    [["スポーツ", "スポーツ"], 
+    ["音楽", "音楽"], 
+    ["料理", "料理"],
+    ["漫画・アニメ", "漫画・アニメ"]], include_blank: "選択して下さい" %>
+  </div>
+
+  <div class="field">
+    <%= f.label :ギャラリー %></br>
+    <%= f.file_field :image %>
+  </div>
+    <!-- 
+    <div class='field'>
+      
+      <p>タグ</p>
+          <%= f.collection_check_boxes(:tag_ids, Tag.all, :id, :name) do |tag| %>
+              <div class='form-check'>
+                  <%= tag.label class: 'form-check-label' do %>
+                      <%= tag.check_box class: 'form-check-input' %>
+                      <%= tag.text %>
+                  <% end %>
+              </div>
+          <% end %>
+      </div> 
+      -->
+    <div class="field2">
+      <%= f.submit "投稿する" %>
+    </div>                
+<% end %>
+
+
+<%= link_to "⇐トップに戻る", tweets_path, class: "field3"%>
+<%= stylesheet_link_tag 'new', :media => "all" %>
