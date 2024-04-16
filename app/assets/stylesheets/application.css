@@ -24,7 +24,7 @@
   font-family: 'Noto Sans Mono', monospace;
   position: fixed;
   width: 100%;
-  background: linear-gradient(to bottom right, rgba(190, 202, 219, 0.9), rgba(206, 173, 130, 0.9));
+  background: linear-gradient(to bottom right, rgba(190, 202, 219), rgba(206, 173, 130));
   color: aliceblue;
   
 }
