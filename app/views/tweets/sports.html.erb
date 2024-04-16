@@ -1,0 +1,4 @@
+<% @tweets.each do |t| %>
+    <%= t.about %>
+    <%= link_to "詳細へ", tweet_path(t.id) %>
+<% end %>

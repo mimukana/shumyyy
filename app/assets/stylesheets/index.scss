@@ -9,8 +9,8 @@
     text-align: center;
   }
   .tweet {
-    border-top: solid #00acee;
-    margin-top: 10px;
+    text-align: center;
+    margin-top: 100px;
     padding-top: 20px;
     padding-bottom: 20px;
   }
@@ -25,8 +25,33 @@
   }
   form {
     justify-content: center;
+    
   }
 
-  .sports {
+  .logo-image1 {
+    width: 628px;
+    height: 400px;
+  }
+
+  .logo-image2 {
+    width: 628px;
+    height: 400px;
+  }
+ 
+  .logo-image3 {
+    width: 628px;
+    height: 400px;
+  }
+
+  .logo-image4 {
+    width: 628px;
+    height: 400px;
+  }
+  
+  .L {
+    margin-top: 75px;
     
+  }
+  .index_back{
+    background: linear-gradient(to bottom right, rgb(25, 85, 169), rgb(228, 145, 51));
   }

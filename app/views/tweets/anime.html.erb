@@ -1,8 +1,18 @@
-<% @tweets.each do |t| %> 
-    <%= t.about %>
-    <%= link_to "詳細へ", tweet_path(t.id) %>
-    <%= link_to "編集する", edit_tweet_path(t.id) %>
-    <%= button_to "削除する", tweet_path(t.id), method: :delete %>
-<% end %>
+<body class="anime_back">
+<div class="hob-index">
+<div class="hobs-container">
+ <% @tweets.each do |t| %> 
 
-<%= link_to "⇐トップに戻る", tweets_path, class: "field3"%>
+  <div class="hob-container">
+   <div class="hob-images">
+     <%= image_tag t.image_url, size: "250x200" if t.image? %><br>
+   </div>
+      <%= t.about %><br>
+      <%= button_to "詳細へ", tweet_path(t.id), method: :get %>
+      <%= button_to "編集する", edit_tweet_path(t.id), method: :get %>
+      <%= button_to "削除する", tweet_path(t.id), method: :delete %>
+  </div>
+ <% end %>
+</div>
+</div>
+</body>

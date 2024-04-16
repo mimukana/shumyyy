@@ -1,7 +1,7 @@
-<h1>マイページ</h1>
-<p>名前 : <%= @user.name %></p>
-<p>メールアドレス : <%= @user.email %></p>
-<p>プロフィール : <%= @user.profile %></p>
+<h1>MyPage</h1>
+<p>name : <%= @user.name %></p>
+<p>email : <%= @user.email %></p>
+<p>profile : <%= @user.profile %></p>
 
 <% if current_user.id == @user.id %>
   <%= link_to "編集する", edit_user_registration_path %>
@@ -20,5 +20,3 @@
   <%= t.about %>
 <% end %>
 <!-- ここまで-->
-
-<%= link_to "Tweet一覧に戻る", tweets_path %>

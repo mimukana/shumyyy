@@ -1,10 +1,7 @@
   .field {
-    margin: 1% auto;
+    margin: 5% auto;
     width: 30%;
-    border: solid #d3def1;
-    border-radius: 10px;
     text-align: center;
-    background-color: #d3def1;
   }
   .title {
     font-size: 32px;
@@ -16,11 +13,31 @@
     text-align: left;
   }
   input[type="submit"] {
-    width: 200px;
     font-size: 20px;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
     justify-content: center;
+  }
+
+  input[type="submit"] {
+    display       : inline-block;
+    border-radius : 23%;          /* 角丸       */
+    font-size     : 14pt;        /* 文字サイズ */
+    text-align    : center;      /* 文字位置   */
+    cursor        : pointer;     /* カーソル   */
+    padding       : 10px 18px;   /* 余白       */
+    background    : linear-gradient(135deg, rgb(199, 209, 207), rgb(69, 157, 160));     /* 背景色     */
+    color         : #4f2a6d;     /* 文字色     */
+    line-height   : 0.5em;         /* 1行の高さ  */
+    width: 150px;
+    transition    : .3s;         /* なめらか変化 */
+    box-shadow    : 4px 4px 3px #666666;  /* 影の設定 */
+    border        : 2px solid #00007f;    /* 枠の指定 */
+  }
+  input[type="submit"]:hover {
+    box-shadow    : none;        /* カーソル時の影消去 */
+    color         : #00007f;     /* 背景色     */
+    background    : #ff7f7f;     /* 文字色     */
   }
 
   .field2{
@@ -33,7 +50,7 @@
     padding: 10px 20px;
     margin-bottom: 50px;
     margin-left: 1000px;
-    background-color: #007bff; /* ボタンの背景色 */
+    background: linear-gradient(to bottom right, rgb(76, 168, 154), rgb(227, 99, 165)); /* ボタンの背景色 */
     color: #ffffff; /* ボタンのテキスト色 */
     text-decoration: none; /* リンクの下線を削除 */
     border: none; /* ボーダーを削除 */
@@ -41,6 +58,9 @@
     cursor: pointer;
   }
   
+  .toukou{
+    margin-top: 125px;
+  }
 
   
   

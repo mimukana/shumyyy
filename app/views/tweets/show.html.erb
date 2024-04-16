@@ -1,7 +1,11 @@
-<h1>GeekTwitter</h1>
-<h3>Tweet詳細</h3>
-<div class="tweet">
-  <p><%= @tweet.about %></p>
-</div>
+<body class="shousai_back">
+<h1>投稿詳細</h1>
 
-<%= link_to "Tweet一覧に戻る", tweets_path %>
+<div class="tweet">
+<div class="hob-images">
+     <%= image_tag @tweet.image_url, size: "250x200" if @tweet.image? %><br>
+  </div>
+  <p><%= @tweet.about %></p>
+<a href="javascript:void(0)" onclick="window.history.back();">前のページに戻る</a>
+</div>
+</body>

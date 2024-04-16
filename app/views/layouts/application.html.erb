@@ -1,7 +1,45 @@
+
+<header>
+  <div class="header-logo">
+    <h1></h1>
+  </div>
+  <div class="openbtn"><span></span><span></span><span></span></div>
+  <nav id="g-nav">
+    <div id="g-nav-list">
+    <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p" rel="stylesheet">
+      <ul>
+        <li>
+        <%= link_to "Top", tweets_path %>
+        </li>
+        <li>
+        <%= link_to "NEW POST", new_tweet_path %>
+        </li>
+        <li>
+        <%= link_to "RECOMMENDATION", new_perfume_path %>
+        </li>
+        
+      
+        <li>
+        <% if user_signed_in? %>
+              <li>
+              <%= link_to "Mypage", user_path(current_user.id) %>
+              <li>
+              <%= button_to 'Logout', destroy_user_session_path, method: :delete %></li>
+              </li>
+              <% else %>
+            <li><%= link_to "Signin", new_user_registration_path %></li>
+            <li><%= link_to "Login", new_user_session_path %></li>
+            <% end %>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</header>
+
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Hob</title>
+    <title></title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
@@ -12,17 +50,10 @@
 
   <body>
   <header>
-   <h1>MISHUMIERU</h1>
-   <div class="header-list">
-    <ul>
-     <% if user_signed_in? %>
-      <li><%= button_to 'ログアウト', destroy_user_session_path, method: :delete %></li>
-     <% else %>
-      <li><%= link_to "新規登録", new_user_registration_path %></li>
-      <li><%= link_to "ログイン", new_user_session_path %></li>
-     <% end %>
-    </ul>
-  </div>
+   <h1></h1>
+
+  <link rel="stylesheet" type="text/css" href="css/5-2-4.css">
+  <div class="openbtn"><span></span><span></span><span></span></div>
   </header>
   <main>
    <%= yield %>
@@ -33,3 +64,22 @@
 </body>
   </body> 
 </html>
+<script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
+ <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+<script>
+$(".openbtn").click(function () {
+ $(this).toggleClass("active");
+ $("#g-nav").toggleClass("panelactive");
+});
+$("#g-nav a").click(function () {
+ $(".openbtn").removeClass("active");
+ $("#g-nav").removeClass("panelactive");
+});
+</script>
+
+
+
+
+
+
+

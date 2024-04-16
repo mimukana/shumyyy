@@ -1,3 +1,6 @@
+
+<body class="perfume_back">
+<div class="sindan-all">
 <%= form_for(@perfume, class: 'form-horizontal', role: 'form') do |f| %>
     <div class="container-sindan">
         <div class="row">
@@ -12,7 +15,7 @@
             </div>
             <div class="col-6">
                 <p><%= f.check_box :question, {multiple: true}, "3", nil %>どっちもある系</p>
-        　  </div>
+            </div>
 
             <div class="col-12">
                 <p>Question2. 生活にもっと刺激が欲しい？</p>
@@ -49,3 +52,5 @@
         <%= f.submit "post" %>
     </div>
 <% end %>
+</div>
+</body>

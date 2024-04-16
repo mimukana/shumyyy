@@ -1,16 +1,20 @@
-<h1>自分の題名</h1>
-<h3>トップページ</h3>
 
 
-<%= link_to "新規投稿へ", new_tweet_path %>
-<% if user_signed_in? %>
-  <%= link_to "マイページへ", user_path(current_user.id) %>
+
+<body class="index_back">
+<div class="L">
+<%= link_to tweets_result_path do %>
+  <%= image_tag 'sports_link2.jpg', class:"logo-image1" %>
 <% end %>
-
-<%= link_to "診断へ", perfumes_path %>
-<br>
-<%= link_to "スポーツ", tweets_result_path %>
-<%= link_to "音楽", tweets_music_path %>
-<%= link_to "料理", tweets_cooking_path %>
-<%= link_to "漫画・アニメ", tweets_anime_path %>
+<%= link_to tweets_music_path do %>
+  <%= image_tag 'music_link2.jpg', class:"logo-image2" %>
+<% end %>
+<%= link_to tweets_cooking_path do %>
+  <%= image_tag 'cooking_link2.jpg', class:"logo-image3" %>
+<% end %>
+<%= link_to tweets_anime_path do %>
+  <%= image_tag 'anime_link2.jpg', class:"logo-image4" %>
+<% end %>
 <%= stylesheet_link_tag 'index', :media => "all" %>
+</div>
+</body>
