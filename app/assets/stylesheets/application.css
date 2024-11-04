@@ -21,7 +21,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-family: 'Noto Sans Mono', monospace;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   position: fixed;
   width: 100%;
   background: linear-gradient(to bottom right, rgba(190, 202, 219), rgba(206, 173, 130));
@@ -46,7 +46,7 @@
 }
 /*ナビゲーションの縦スクロール*/
 #g-nav.panelactive #g-nav-list{
-  background: linear-gradient(0deg, pink, rgba(207, 191, 116));
+  background: linear-gradient(0deg, pink, rgba(207, 191, 116, 1.0));
   position: fixed;
   z-index: 999;
   width: 30%;
@@ -77,18 +77,19 @@
   font-family: "M PLUS 1p";
 }
 #g-nav li input{
-background: linear-gradient(to bottom right, rgb(187, 220, 245), rgb(211, 183, 82));
-color: #333;
-text-decoration: none;
-border-radius: 10px;
-padding:10px;
-display: block;
-text-transform: uppercase;
-letter-spacing: 0.1em;
-font-weight: bold;
-font-family: "M PLUS 1p";
-border: #fff;
-font-size: 16px;
+  margin-left: 18px;
+  background: linear-gradient(to bottom right, rgb(187, 220, 245), rgb(211, 183, 82));
+  color: #333;
+  text-decoration: none;
+  border-radius: 10px;
+  padding:10px;
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: bold;
+  font-family: "M PLUS 1p";
+  border: #fff;
+  font-size: 16px;
 }
 .openbtn{
   background-color: rgb(121, 156, 184);
@@ -153,10 +154,10 @@ font-size: 16px;
   }
  
   footer {
-    color: white;
+    color: rgb(255, 255, 255);
     height: 30px;
     background-color: #000;
-    margin-top: 1000px;
+    margin: 1000px;
     bottom: 0;
     width: 100%;
     display: flex;
@@ -165,3 +166,30 @@ font-size: 16px;
     justify-content: flex-end;
   }
 
+  .S1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 75px;
+    color:#f70808;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+  }
+
+  .S2 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 75px;
+    color:#f7ab08;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+  }
+
+  .S3 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 75px;
+    color:#28f708;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+  }
+
+  .S4 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 75px;
+    color:#0838f7;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+  }

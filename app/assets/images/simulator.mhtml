@@ -1,0 +1,2024 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/mimuk/Downloads/simcirjs-master%20(1)/simcirjs-master/simulator.html
+Subject: 
+Date: Wed, 22 May 2024 14:20:30 +0900
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--WH5EMPpuL0gb8EnGz68szH8caQxMtmQYVSFRvITcam----"
+
+
+------MultipartBoundary--WH5EMPpuL0gb8EnGz68szH8caQxMtmQYVSFRvITcam----
+Content-Type: text/html
+Content-ID: <frame-B962891D6ECEA3F5E6B8E5B11DC9D5D3@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/mimuk/Downloads/simcirjs-master%20(1)/simcirjs-master/simulator.html
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8">
+       =20
+       =20
+       =20
+        <link rel=3D"stylesheet" type=3D"text/css" href=3D"file:///C:/Users=
+/mimuk/Downloads/simcirjs-master%20(1)/simcirjs-master/simcir.css">
+       =20
+        <link rel=3D"stylesheet" type=3D"text/css" href=3D"file:///C:/Users=
+/mimuk/Downloads/simcirjs-master%20(1)/simcirjs-master/simcir-basicset.css"=
+>
+       =20
+       =20
+       =20
+        <title></title>
+    </head>
+    <body>
+        <div id=3D"mySimcir"><div class=3D"  simcir-body"><svg version=3D"1=
+.1" width=3D"800" height=3D"600" viewBox=3D"0 0 800 600" class=3D"simcir-wo=
+rkspace" style=3D"user-select: none; display: inline;"><defs><pattern id=3D=
+"simcir-id1" x=3D"0" y=3D"0" width=3D"0.011627906976744186" height=3D"0.013=
+333333333333334"><rect class=3D"simcir-pin-hole" x=3D"0" y=3D"0" width=3D"1=
+" height=3D"1"></rect></pattern></defs><rect x=3D"112" y=3D"0" width=3D"688=
+" height=3D"600" style=3D"fill: url(&quot;#simcir-id1&quot;);"></rect><g cl=
+ass=3D"simcir-toolbox"><rect x=3D"0" y=3D"0" width=3D"112" height=3D"600"><=
+/rect><g><g class=3D"simcir-device" transform=3D"translate(32 8)" simcir-tr=
+ansform-x=3D"32" simcir-transform-y=3D"8" simcir-transform-rotate=3D"undefi=
+ned"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0" w=
+idth=3D"32" height=3D"32"></rect><g simcir-node-type=3D"in" class=3D"simcir=
+-node simcir-node-type-in" transform=3D"translate(0 16)" simcir-transform-x=
+=3D"0" simcir-transform-y=3D"16" simcir-transform-rotate=3D"undefined"><cir=
+cle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"out" clas=
+s=3D"simcir-node simcir-node-type-out" transform=3D"translate(32 16)" simci=
+r-transform-x=3D"32" simcir-transform-y=3D"16" simcir-transform-rotate=3D"u=
+ndefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"sim=
+cir-device-label" text-anchor=3D"middle" x=3D"16" y=3D"44" style=3D"font-si=
+ze: 12px;">In</text><circle cx=3D"16" cy=3D"16" r=3D"8" class=3D"simcir-por=
+t simcir-node-type-in"></circle><circle cx=3D"16" cy=3D"16" r=3D"4" class=
+=3D"simcir-port-hole"></circle></g><g class=3D"simcir-device" transform=3D"=
+translate(32 60)" simcir-transform-x=3D"32" simcir-transform-y=3D"60" simci=
+r-transform-rotate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2=
+" ry=3D"2" x=3D"0" y=3D"0" width=3D"32" height=3D"32"></rect><g simcir-node=
+-type=3D"in" class=3D"simcir-node simcir-node-type-in" transform=3D"transla=
+te(0 16)" simcir-transform-x=3D"0" simcir-transform-y=3D"16" simcir-transfo=
+rm-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g s=
+imcir-node-type=3D"out" class=3D"simcir-node simcir-node-type-out" transfor=
+m=3D"translate(32 16)" simcir-transform-x=3D"32" simcir-transform-y=3D"16" =
+simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></c=
+ircle></g><text class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"1=
+6" y=3D"44" style=3D"font-size: 12px;">Out</text><circle cx=3D"16" cy=3D"16=
+" r=3D"8" class=3D"simcir-port simcir-node-type-out"></circle><circle cx=3D=
+"16" cy=3D"16" r=3D"4" class=3D"simcir-port-hole"></circle></g><g class=3D"=
+simcir-device" transform=3D"translate(40 112)" simcir-transform-x=3D"40" si=
+mcir-transform-y=3D"112" simcir-transform-rotate=3D"undefined"><rect class=
+=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"4" width=3D"16" heig=
+ht=3D"8"></rect><g simcir-node-type=3D"in" class=3D"simcir-node simcir-node=
+-type-in" transform=3D"translate(0 8)" simcir-transform-x=3D"0" simcir-tran=
+sform-y=3D"8" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"=
+0" r=3D"4"></circle></g><g simcir-node-type=3D"out" class=3D"simcir-node si=
+mcir-node-type-out" transform=3D"translate(16 8)" simcir-transform-x=3D"16"=
+ simcir-transform-y=3D"8" simcir-transform-rotate=3D"undefined"><circle cx=
+=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-device-label" te=
+xt-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"font-size: 12px;">Joint</tex=
+t><circle r=3D"2" class=3D"  simcir-connector simcir-joint-point" cx=3D"16"=
+ cy=3D"8" style=3D"pointer-events: none; opacity: 0; display: none;"></circ=
+le><path class=3D"  simcir-connector" d=3D"M0 8L16 8" style=3D"pointer-even=
+ts: none; opacity: 0;"></path></g><g class=3D" simcir-device simcir-basicse=
+t-osc" transform=3D"translate(32 148)" simcir-transform-x=3D"32" simcir-tra=
+nsform-y=3D"148" simcir-transform-rotate=3D"undefined"><rect class=3D"simci=
+r-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0" width=3D"32" height=3D"32"=
+></rect><g simcir-node-type=3D"out" class=3D"simcir-node simcir-node-type-o=
+ut" transform=3D"translate(32 16)" simcir-transform-x=3D"32" simcir-transfo=
+rm-y=3D"16" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0"=
+ r=3D"4"></circle></g><text class=3D"simcir-device-label" text-anchor=3D"mi=
+ddle" x=3D"16" y=3D"44" style=3D"font-size: 12px;">CLK(1Hz)</text></g><g cl=
+ass=3D" simcir-device simcir-basicset-osc" transform=3D"translate(32 200)" =
+simcir-transform-x=3D"32" simcir-transform-y=3D"200" simcir-transform-rotat=
+e=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0=
+" y=3D"0" width=3D"32" height=3D"32"></rect><g simcir-node-type=3D"out" cla=
+ss=3D"simcir-node simcir-node-type-out" transform=3D"translate(32 16)" simc=
+ir-transform-x=3D"32" simcir-transform-y=3D"16" simcir-transform-rotate=3D"=
+undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"si=
+mcir-device-label" text-anchor=3D"middle" x=3D"16" y=3D"44" style=3D"font-s=
+ize: 12px;">CLK(10Hz)</text></g><g class=3D" simcir-device simcir-basicset-=
+dc" transform=3D"translate(32 252)" simcir-transform-x=3D"32" simcir-transf=
+orm-y=3D"252" simcir-transform-rotate=3D"undefined"><rect class=3D"simcir-d=
+evice-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0" width=3D"32" height=3D"32"></=
+rect><g simcir-node-type=3D"out" class=3D"simcir-node simcir-node-type-out"=
+ transform=3D"translate(32 16)" simcir-transform-x=3D"32" simcir-transform-=
+y=3D"16" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=
+=3D"4"></circle></g><text class=3D"simcir-device-label" text-anchor=3D"midd=
+le" x=3D"16" y=3D"44" style=3D"font-size: 12px;">DC</text></g><g class=3D"s=
+imcir-device" transform=3D"translate(32 304)" simcir-transform-x=3D"32" sim=
+cir-transform-y=3D"304" simcir-transform-rotate=3D"undefined"><rect class=
+=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0" width=3D"32" heig=
+ht=3D"32"></rect><g simcir-node-type=3D"in" class=3D"simcir-node simcir-nod=
+e-type-in" transform=3D"translate(0 16)" simcir-transform-x=3D"0" simcir-tr=
+ansform-y=3D"16" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=
+=3D"0" r=3D"4"></circle></g><text class=3D"simcir-device-label" text-anchor=
+=3D"middle" x=3D"16" y=3D"44" style=3D"font-size: 12px;">LED(R)</text><circ=
+le cx=3D"16" cy=3D"16" r=3D"8" stroke=3D"none" fill=3D"#330000"></circle><c=
+ircle cx=3D"16" cy=3D"16" r=3D"6.4" stroke=3D"none" fill=3D"#3f0000"></circ=
+le></g><g class=3D"simcir-device" transform=3D"translate(32 356)" simcir-tr=
+ansform-x=3D"32" simcir-transform-y=3D"356" simcir-transform-rotate=3D"unde=
+fined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0"=
+ width=3D"32" height=3D"32"></rect><g simcir-node-type=3D"in" class=3D"simc=
+ir-node simcir-node-type-in" transform=3D"translate(0 16)" simcir-transform=
+-x=3D"0" simcir-transform-y=3D"16" simcir-transform-rotate=3D"undefined"><c=
+ircle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-device-l=
+abel" text-anchor=3D"middle" x=3D"16" y=3D"44" style=3D"font-size: 12px;">L=
+ED(G)</text><circle cx=3D"16" cy=3D"16" r=3D"8" stroke=3D"none" fill=3D"#00=
+3300"></circle><circle cx=3D"16" cy=3D"16" r=3D"6.4" stroke=3D"none" fill=
+=3D"#003f00"></circle></g><g class=3D"simcir-device" transform=3D"translate=
+(32 408)" simcir-transform-x=3D"32" simcir-transform-y=3D"408" simcir-trans=
+form-rotate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D=
+"2" x=3D"0" y=3D"0" width=3D"32" height=3D"32"></rect><g simcir-node-type=
+=3D"in" class=3D"simcir-node simcir-node-type-in" transform=3D"translate(0 =
+16)" simcir-transform-x=3D"0" simcir-transform-y=3D"16" simcir-transform-ro=
+tate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text cla=
+ss=3D"simcir-device-label" text-anchor=3D"middle" x=3D"16" y=3D"44" style=
+=3D"font-size: 12px;">LED(B)</text><circle cx=3D"16" cy=3D"16" r=3D"8" stro=
+ke=3D"none" fill=3D"#000033"></circle><circle cx=3D"16" cy=3D"16" r=3D"6.4"=
+ stroke=3D"none" fill=3D"#00003f"></circle></g><g class=3D" simcir-device s=
+imcir-basicset-switch" transform=3D"translate(32 460)" simcir-transform-x=
+=3D"32" simcir-transform-y=3D"460" simcir-transform-rotate=3D"undefined"><r=
+ect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0" width=3D=
+"32" height=3D"32"></rect><g simcir-node-type=3D"in" class=3D"simcir-node s=
+imcir-node-type-in" transform=3D"translate(0 16)" simcir-transform-x=3D"0" =
+simcir-transform-y=3D"16" simcir-transform-rotate=3D"undefined"><circle cx=
+=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"out" class=3D"s=
+imcir-node simcir-node-type-out" transform=3D"translate(32 16)" simcir-tran=
+sform-x=3D"32" simcir-transform-y=3D"16" simcir-transform-rotate=3D"undefin=
+ed"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-de=
+vice-label" text-anchor=3D"middle" x=3D"16" y=3D"44" style=3D"font-size: 12=
+px;">PushOff</text><rect x=3D"8" y=3D"8" width=3D"16" height=3D"16" rx=3D"2=
+" ry=3D"2" class=3D"  simcir-basicset-switch-button"></rect></g><g class=3D=
+" simcir-device simcir-basicset-switch" transform=3D"translate(32 512)" sim=
+cir-transform-x=3D"32" simcir-transform-y=3D"512" simcir-transform-rotate=
+=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0"=
+ y=3D"0" width=3D"32" height=3D"32"></rect><g simcir-node-type=3D"in" class=
+=3D"simcir-node simcir-node-type-in" transform=3D"translate(0 16)" simcir-t=
+ransform-x=3D"0" simcir-transform-y=3D"16" simcir-transform-rotate=3D"undef=
+ined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D=
+"out" class=3D"simcir-node simcir-node-type-out" transform=3D"translate(32 =
+16)" simcir-transform-x=3D"32" simcir-transform-y=3D"16" simcir-transform-r=
+otate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text cl=
+ass=3D"simcir-device-label" text-anchor=3D"middle" x=3D"16" y=3D"44" style=
+=3D"font-size: 12px;">PushOn</text><rect x=3D"8" y=3D"8" width=3D"16" heigh=
+t=3D"16" rx=3D"2" ry=3D"2" class=3D"  simcir-basicset-switch-button"></rect=
+></g><g class=3D" simcir-device simcir-basicset-switch" transform=3D"transl=
+ate(32 564)" simcir-transform-x=3D"32" simcir-transform-y=3D"564" simcir-tr=
+ansform-rotate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=
+=3D"2" x=3D"0" y=3D"0" width=3D"32" height=3D"32"></rect><g simcir-node-typ=
+e=3D"in" class=3D"simcir-node simcir-node-type-in" transform=3D"translate(0=
+ 16)" simcir-transform-x=3D"0" simcir-transform-y=3D"16" simcir-transform-r=
+otate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simci=
+r-node-type=3D"out" class=3D"simcir-node simcir-node-type-out" transform=3D=
+"translate(32 16)" simcir-transform-x=3D"32" simcir-transform-y=3D"16" simc=
+ir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circl=
+e></g><text class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"16" y=
+=3D"44" style=3D"font-size: 12px;">Toggle</text><rect x=3D"8" y=3D"8" width=
+=3D"16" height=3D"16" rx=3D"2" ry=3D"2" class=3D"  simcir-basicset-switch-b=
+utton"></rect></g><g class=3D"simcir-device" transform=3D"translate(32 616)=
+" simcir-transform-x=3D"32" simcir-transform-y=3D"616" simcir-transform-rot=
+ate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D=
+"0" y=3D"0" width=3D"32" height=3D"32"></rect><g simcir-node-type=3D"in" cl=
+ass=3D"simcir-node simcir-node-type-in" transform=3D"translate(0 16)" simci=
+r-transform-x=3D"0" simcir-transform-y=3D"16" simcir-transform-rotate=3D"un=
+defined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=
+=3D"out" class=3D"simcir-node simcir-node-type-out" transform=3D"translate(=
+32 16)" simcir-transform-x=3D"32" simcir-transform-y=3D"16" simcir-transfor=
+m-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text=
+ class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"16" y=3D"44" sty=
+le=3D"font-size: 12px;">BUF</text><path d=3D" M 8 8 L 24 16 L 8 24 L 8 8 Z"=
+ class=3D"simcir-basicset-symbol"></path></g><g class=3D"simcir-device" tra=
+nsform=3D"translate(32 668)" simcir-transform-x=3D"32" simcir-transform-y=
+=3D"668" simcir-transform-rotate=3D"undefined"><rect class=3D"simcir-device=
+-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0" width=3D"32" height=3D"32"></rect>=
+<g simcir-node-type=3D"in" class=3D"simcir-node simcir-node-type-in" transf=
+orm=3D"translate(0 16)" simcir-transform-x=3D"0" simcir-transform-y=3D"16" =
+simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></c=
+ircle></g><g simcir-node-type=3D"out" class=3D"simcir-node simcir-node-type=
+-out" transform=3D"translate(32 16)" simcir-transform-x=3D"32" simcir-trans=
+form-y=3D"16" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"=
+0" r=3D"4"></circle></g><text class=3D"simcir-device-label" text-anchor=3D"=
+middle" x=3D"16" y=3D"44" style=3D"font-size: 12px;">NOT</text><path d=3D" =
+M 7 8 L 21 16 L 7 24 L 7 8 Z" class=3D"simcir-basicset-symbol"></path><circ=
+le cx=3D"23" cy=3D"16" r=3D"2" class=3D"simcir-basicset-symbol"></circle></=
+g><g class=3D"simcir-device" transform=3D"translate(32 720)" simcir-transfo=
+rm-x=3D"32" simcir-transform-y=3D"720" simcir-transform-rotate=3D"undefined=
+"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0" widt=
+h=3D"32" height=3D"32"></rect><g simcir-node-type=3D"in" class=3D"simcir-no=
+de simcir-node-type-in" transform=3D"translate(0 8)" simcir-transform-x=3D"=
+0" simcir-transform-y=3D"8" simcir-transform-rotate=3D"undefined"><circle c=
+x=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"in" class=3D"s=
+imcir-node simcir-node-type-in" transform=3D"translate(0 24)" simcir-transf=
+orm-x=3D"0" simcir-transform-y=3D"24" simcir-transform-rotate=3D"undefined"=
+><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"out"=
+ class=3D"simcir-node simcir-node-type-out" transform=3D"translate(32 16)" =
+simcir-transform-x=3D"32" simcir-transform-y=3D"16" simcir-transform-rotate=
+=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=
+=3D"simcir-device-label" text-anchor=3D"middle" x=3D"16" y=3D"44" style=3D"=
+font-size: 12px;">AND</text><path d=3D" M 8 8 Q 24 8 24 16 Q 24 24 8 24 L 8=
+ 8 Z" class=3D"simcir-basicset-symbol"></path></g><g class=3D"simcir-device=
+" transform=3D"translate(32 772)" simcir-transform-x=3D"32" simcir-transfor=
+m-y=3D"772" simcir-transform-rotate=3D"undefined"><rect class=3D"simcir-dev=
+ice-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0" width=3D"32" height=3D"32"></re=
+ct><g simcir-node-type=3D"in" class=3D"simcir-node simcir-node-type-in" tra=
+nsform=3D"translate(0 8)" simcir-transform-x=3D"0" simcir-transform-y=3D"8"=
+ simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></=
+circle></g><g simcir-node-type=3D"in" class=3D"simcir-node simcir-node-type=
+-in" transform=3D"translate(0 16)" simcir-transform-x=3D"0" simcir-transfor=
+m-y=3D"16" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" =
+r=3D"4"></circle></g><g simcir-node-type=3D"in" class=3D"simcir-node simcir=
+-node-type-in" transform=3D"translate(0 24)" simcir-transform-x=3D"0" simci=
+r-transform-y=3D"24" simcir-transform-rotate=3D"undefined"><circle cx=3D"0"=
+ cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"out" class=3D"simcir-=
+node simcir-node-type-out" transform=3D"translate(32 16)" simcir-transform-=
+x=3D"32" simcir-transform-y=3D"16" simcir-transform-rotate=3D"undefined"><c=
+ircle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-device-l=
+abel" text-anchor=3D"middle" x=3D"16" y=3D"44" style=3D"font-size: 12px;">A=
+ND(3)</text><path d=3D" M 8 8 Q 24 8 24 16 Q 24 24 8 24 L 8 8 Z" class=3D"s=
+imcir-basicset-symbol"></path></g><g class=3D"simcir-device" transform=3D"t=
+ranslate(32 824)" simcir-transform-x=3D"32" simcir-transform-y=3D"824" simc=
+ir-transform-rotate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"=
+2" ry=3D"2" x=3D"0" y=3D"0" width=3D"32" height=3D"32"></rect><g simcir-nod=
+e-type=3D"in" class=3D"simcir-node simcir-node-type-in" transform=3D"transl=
+ate(0 8)" simcir-transform-x=3D"0" simcir-transform-y=3D"8" simcir-transfor=
+m-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g si=
+mcir-node-type=3D"in" class=3D"simcir-node simcir-node-type-in" transform=
+=3D"translate(0 24)" simcir-transform-x=3D"0" simcir-transform-y=3D"24" sim=
+cir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circ=
+le></g><g simcir-node-type=3D"out" class=3D"simcir-node simcir-node-type-ou=
+t" transform=3D"translate(32 16)" simcir-transform-x=3D"32" simcir-transfor=
+m-y=3D"16" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" =
+r=3D"4"></circle></g><text class=3D"simcir-device-label" text-anchor=3D"mid=
+dle" x=3D"16" y=3D"44" style=3D"font-size: 12px;">NAND</text><path d=3D" M =
+7 8 Q 21 8 21 16 Q 21 24 7 24 L 7 8 Z" class=3D"simcir-basicset-symbol"></p=
+ath><circle cx=3D"23" cy=3D"16" r=3D"2" class=3D"simcir-basicset-symbol"></=
+circle></g><g class=3D"simcir-device" transform=3D"translate(32 876)" simci=
+r-transform-x=3D"32" simcir-transform-y=3D"876" simcir-transform-rotate=3D"=
+undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=
+=3D"0" width=3D"32" height=3D"32"></rect><g simcir-node-type=3D"in" class=
+=3D"simcir-node simcir-node-type-in" transform=3D"translate(0 8)" simcir-tr=
+ansform-x=3D"0" simcir-transform-y=3D"8" simcir-transform-rotate=3D"undefin=
+ed"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"i=
+n" class=3D"simcir-node simcir-node-type-in" transform=3D"translate(0 24)" =
+simcir-transform-x=3D"0" simcir-transform-y=3D"24" simcir-transform-rotate=
+=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-nod=
+e-type=3D"out" class=3D"simcir-node simcir-node-type-out" transform=3D"tran=
+slate(32 16)" simcir-transform-x=3D"32" simcir-transform-y=3D"16" simcir-tr=
+ansform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g=
+><text class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"16" y=3D"4=
+4" style=3D"font-size: 12px;">OR</text><path d=3D" M 8 8 Q 20.8 8 24 16 Q 2=
+0.8 24 8 24 Q 11.2 24 11.2 16 Q 11.2 8 8 8 Z" class=3D"simcir-basicset-symb=
+ol"></path></g><g class=3D"simcir-device" transform=3D"translate(32 928)" s=
+imcir-transform-x=3D"32" simcir-transform-y=3D"928" simcir-transform-rotate=
+=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0"=
+ y=3D"0" width=3D"32" height=3D"32"></rect><g simcir-node-type=3D"in" class=
+=3D"simcir-node simcir-node-type-in" transform=3D"translate(0 8)" simcir-tr=
+ansform-x=3D"0" simcir-transform-y=3D"8" simcir-transform-rotate=3D"undefin=
+ed"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"i=
+n" class=3D"simcir-node simcir-node-type-in" transform=3D"translate(0 16)" =
+simcir-transform-x=3D"0" simcir-transform-y=3D"16" simcir-transform-rotate=
+=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-nod=
+e-type=3D"in" class=3D"simcir-node simcir-node-type-in" transform=3D"transl=
+ate(0 24)" simcir-transform-x=3D"0" simcir-transform-y=3D"24" simcir-transf=
+orm-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g =
+simcir-node-type=3D"out" class=3D"simcir-node simcir-node-type-out" transfo=
+rm=3D"translate(32 16)" simcir-transform-x=3D"32" simcir-transform-y=3D"16"=
+ simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></=
+circle></g><text class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"=
+16" y=3D"44" style=3D"font-size: 12px;">OR(3)</text><path d=3D" M 8 8 Q 20.=
+8 8 24 16 Q 20.8 24 8 24 Q 11.2 24 11.2 16 Q 11.2 8 8 8 Z" class=3D"simcir-=
+basicset-symbol"></path></g><g class=3D"simcir-device" transform=3D"transla=
+te(32 980)" simcir-transform-x=3D"32" simcir-transform-y=3D"980" simcir-tra=
+nsform-rotate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=
+=3D"2" x=3D"0" y=3D"0" width=3D"32" height=3D"40"></rect><g simcir-node-typ=
+e=3D"in" class=3D"simcir-node simcir-node-type-in" transform=3D"translate(0=
+ 8)" simcir-transform-x=3D"0" simcir-transform-y=3D"8" simcir-transform-rot=
+ate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-=
+node-type=3D"in" class=3D"simcir-node simcir-node-type-in" transform=3D"tra=
+nslate(0 16)" simcir-transform-x=3D"0" simcir-transform-y=3D"16" simcir-tra=
+nsform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g>=
+<g simcir-node-type=3D"in" class=3D"simcir-node simcir-node-type-in" transf=
+orm=3D"translate(0 24)" simcir-transform-x=3D"0" simcir-transform-y=3D"24" =
+simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></c=
+ircle></g><g simcir-node-type=3D"in" class=3D"simcir-node simcir-node-type-=
+in" transform=3D"translate(0 32)" simcir-transform-x=3D"0" simcir-transform=
+-y=3D"32" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=
+=3D"4"></circle></g><g simcir-node-type=3D"out" class=3D"simcir-node simcir=
+-node-type-out" transform=3D"translate(32 20)" simcir-transform-x=3D"32" si=
+mcir-transform-y=3D"20" simcir-transform-rotate=3D"undefined"><circle cx=3D=
+"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-device-label" text-=
+anchor=3D"middle" x=3D"16" y=3D"52" style=3D"font-size: 12px;">OR(4)</text>=
+<path d=3D" M 8 12 Q 20.8 12 24 20 Q 20.8 28 8 28 Q 11.2 28 11.2 20 Q 11.2 =
+12 8 12 Z" class=3D"simcir-basicset-symbol"></path></g><g class=3D"simcir-d=
+evice" transform=3D"translate(32 1040)" simcir-transform-x=3D"32" simcir-tr=
+ansform-y=3D"1040" simcir-transform-rotate=3D"undefined"><rect class=3D"sim=
+cir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0" width=3D"32" height=3D"3=
+2"></rect><g simcir-node-type=3D"in" class=3D"simcir-node simcir-node-type-=
+in" transform=3D"translate(0 8)" simcir-transform-x=3D"0" simcir-transform-=
+y=3D"8" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=
+=3D"4"></circle></g><g simcir-node-type=3D"in" class=3D"simcir-node simcir-=
+node-type-in" transform=3D"translate(0 24)" simcir-transform-x=3D"0" simcir=
+-transform-y=3D"24" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" =
+cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"out" class=3D"simcir-n=
+ode simcir-node-type-out" transform=3D"translate(32 16)" simcir-transform-x=
+=3D"32" simcir-transform-y=3D"16" simcir-transform-rotate=3D"undefined"><ci=
+rcle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-device-la=
+bel" text-anchor=3D"middle" x=3D"16" y=3D"44" style=3D"font-size: 12px;">NO=
+R</text><path d=3D" M 7 8 Q 18.2 8 21 16 Q 18.2 24 7 24 Q 9.8 24 9.8 16 Q 9=
+.8 8 7 8 Z" class=3D"simcir-basicset-symbol"></path><circle cx=3D"23" cy=3D=
+"16" r=3D"2" class=3D"simcir-basicset-symbol"></circle></g><g class=3D"simc=
+ir-device" transform=3D"translate(32 1092)" simcir-transform-x=3D"32" simci=
+r-transform-y=3D"1092" simcir-transform-rotate=3D"undefined"><rect class=3D=
+"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0" width=3D"32" height=
+=3D"32"></rect><g simcir-node-type=3D"in" class=3D"simcir-node simcir-node-=
+type-in" transform=3D"translate(0 8)" simcir-transform-x=3D"0" simcir-trans=
+form-y=3D"8" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0=
+" r=3D"4"></circle></g><g simcir-node-type=3D"in" class=3D"simcir-node simc=
+ir-node-type-in" transform=3D"translate(0 24)" simcir-transform-x=3D"0" sim=
+cir-transform-y=3D"24" simcir-transform-rotate=3D"undefined"><circle cx=3D"=
+0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"out" class=3D"simci=
+r-node simcir-node-type-out" transform=3D"translate(32 16)" simcir-transfor=
+m-x=3D"32" simcir-transform-y=3D"16" simcir-transform-rotate=3D"undefined">=
+<circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-device=
+-label" text-anchor=3D"middle" x=3D"16" y=3D"44" style=3D"font-size: 12px;"=
+>XOR</text><path d=3D" M 11 8 Q 21.4 8 24 16 Q 21.4 24 11 24 Q 13.6 24 13.6=
+ 16 Q 13.6 8 11 8 Z" class=3D"simcir-basicset-symbol"></path><path d=3D" M =
+8 24 Q 10.6 24 10.6 16 Q 10.6 8 8 8" class=3D"simcir-basicset-symbol"></pat=
+h></g><g class=3D"simcir-device" transform=3D"translate(32 1144)" simcir-tr=
+ansform-x=3D"32" simcir-transform-y=3D"1144" simcir-transform-rotate=3D"und=
+efined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0=
+" width=3D"32" height=3D"32"></rect><g simcir-node-type=3D"in" class=3D"sim=
+cir-node simcir-node-type-in" transform=3D"translate(0 8)" simcir-transform=
+-x=3D"0" simcir-transform-y=3D"8" simcir-transform-rotate=3D"undefined"><ci=
+rcle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"in" clas=
+s=3D"simcir-node simcir-node-type-in" transform=3D"translate(0 24)" simcir-=
+transform-x=3D"0" simcir-transform-y=3D"24" simcir-transform-rotate=3D"unde=
+fined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=
+=3D"out" class=3D"simcir-node simcir-node-type-out" transform=3D"translate(=
+32 16)" simcir-transform-x=3D"32" simcir-transform-y=3D"16" simcir-transfor=
+m-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text=
+ class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"16" y=3D"44" sty=
+le=3D"font-size: 12px;">XNOR</text><path d=3D" M 10 8 Q 18.8 8 21 16 Q 18.8=
+ 24 10 24 Q 12.2 24 12.2 16 Q 12.2 8 10 8 Z" class=3D"simcir-basicset-symbo=
+l"></path><path d=3D" M 7 24 Q 9.2 24 9.2 16 Q 9.2 8 7 8" class=3D"simcir-b=
+asicset-symbol"></path><circle cx=3D"23" cy=3D"16" r=3D"2" class=3D"simcir-=
+basicset-symbol"></circle></g><g class=3D"simcir-device" transform=3D"trans=
+late(16 1196)" simcir-transform-x=3D"16" simcir-transform-y=3D"1196" simcir=
+-transform-rotate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2"=
+ ry=3D"2" x=3D"0" y=3D"0" width=3D"64" height=3D"72"></rect><g simcir-node-=
+type=3D"in" class=3D"simcir-node simcir-node-type-in" transform=3D"translat=
+e(0 8)" simcir-transform-x=3D"0" simcir-transform-y=3D"8" simcir-transform-=
+rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simc=
+ir-node-type=3D"in" class=3D"simcir-node simcir-node-type-in" transform=3D"=
+translate(0 16)" simcir-transform-x=3D"0" simcir-transform-y=3D"16" simcir-=
+transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><=
+/g><g simcir-node-type=3D"in" class=3D"simcir-node simcir-node-type-in" tra=
+nsform=3D"translate(0 24)" simcir-transform-x=3D"0" simcir-transform-y=3D"2=
+4" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4">=
+</circle></g><g simcir-node-type=3D"in" class=3D"simcir-node simcir-node-ty=
+pe-in" transform=3D"translate(0 32)" simcir-transform-x=3D"0" simcir-transf=
+orm-y=3D"32" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0=
+" r=3D"4"></circle></g><g simcir-node-type=3D"in" class=3D"simcir-node simc=
+ir-node-type-in" transform=3D"translate(0 40)" simcir-transform-x=3D"0" sim=
+cir-transform-y=3D"40" simcir-transform-rotate=3D"undefined"><circle cx=3D"=
+0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"in" class=3D"simcir=
+-node simcir-node-type-in" transform=3D"translate(0 48)" simcir-transform-x=
+=3D"0" simcir-transform-y=3D"48" simcir-transform-rotate=3D"undefined"><cir=
+cle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"in" class=
+=3D"simcir-node simcir-node-type-in" transform=3D"translate(0 56)" simcir-t=
+ransform-x=3D"0" simcir-transform-y=3D"56" simcir-transform-rotate=3D"undef=
+ined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D=
+"in" class=3D"simcir-node simcir-node-type-in" transform=3D"translate(0 64)=
+" simcir-transform-x=3D"0" simcir-transform-y=3D"64" simcir-transform-rotat=
+e=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=
+=3D"simcir-device-label" text-anchor=3D"middle" x=3D"32" y=3D"84" style=3D"=
+font-size: 12px;">7seg</text><g transform=3D"translate(14.192 8) scale(0.05=
+6) "><rect x=3D"0" y=3D"0" width=3D"636" height=3D"1000" stroke=3D"none" fi=
+ll=3D"#000000"></rect><path d=3D" M 575 138 L 494 211 L 249 211 L 194 137 L=
+ 213 120 L 559 120 Z" stroke=3D"none" fill=3D"#3f0000"></path><path d=3D" M=
+ 595 160 L 544 452 L 493 500 L 459 456 L 500 220 L 582 146 Z" stroke=3D"non=
+e" fill=3D"#3f0000"></path><path d=3D" M 525 560 L 476 842 L 465 852 L 401 =
+792 L 441 562 L 491 516 Z" stroke=3D"none" fill=3D"#3f0000"></path><path d=
+=3D" M 457 860 L 421 892 L 94 892 L 69 864 L 144 801 L 394 801 Z" stroke=3D=
+"none" fill=3D"#3f0000"></path><path d=3D" M 181 560 L 141 789 L 61 856 L 4=
+8 841 L 96 566 L 148 516 Z" stroke=3D"none" fill=3D"#3f0000"></path><path d=
+=3D" M 241 218 L 200 453 L 150 500 L 115 454 L 166 162 L 185 145 Z" stroke=
+=3D"none" fill=3D"#3f0000"></path><path d=3D" M 485 507 L 433 555 L 190 555=
+ L 156 509 L 204 464 L 451 464 Z" stroke=3D"none" fill=3D"#3f0000"></path><=
+circle cx=3D"542" cy=3D"840" r=3D"46" stroke=3D"none" fill=3D"#3f0000"></ci=
+rcle></g></g><g class=3D"simcir-device" transform=3D"translate(16 1288)" si=
+mcir-transform-x=3D"16" simcir-transform-y=3D"1288" simcir-transform-rotate=
+=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0"=
+ y=3D"0" width=3D"64" height=3D"144"></rect><g simcir-node-type=3D"in" clas=
+s=3D"simcir-node simcir-node-type-in" transform=3D"translate(0 8)" simcir-t=
+ransform-x=3D"0" simcir-transform-y=3D"8" simcir-transform-rotate=3D"undefi=
+ned"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"=
+in" class=3D"simcir-node simcir-node-type-in" transform=3D"translate(0 16)"=
+ simcir-transform-x=3D"0" simcir-transform-y=3D"16" simcir-transform-rotate=
+=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-nod=
+e-type=3D"in" class=3D"simcir-node simcir-node-type-in" transform=3D"transl=
+ate(0 24)" simcir-transform-x=3D"0" simcir-transform-y=3D"24" simcir-transf=
+orm-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g =
+simcir-node-type=3D"in" class=3D"simcir-node simcir-node-type-in" transform=
+=3D"translate(0 32)" simcir-transform-x=3D"0" simcir-transform-y=3D"32" sim=
+cir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circ=
+le></g><g simcir-node-type=3D"in" class=3D"simcir-node simcir-node-type-in"=
+ transform=3D"translate(0 40)" simcir-transform-x=3D"0" simcir-transform-y=
+=3D"40" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=
+=3D"4"></circle></g><g simcir-node-type=3D"in" class=3D"simcir-node simcir-=
+node-type-in" transform=3D"translate(0 48)" simcir-transform-x=3D"0" simcir=
+-transform-y=3D"48" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" =
+cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"in" class=3D"simcir-no=
+de simcir-node-type-in" transform=3D"translate(0 56)" simcir-transform-x=3D=
+"0" simcir-transform-y=3D"56" simcir-transform-rotate=3D"undefined"><circle=
+ cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"in" class=3D=
+"simcir-node simcir-node-type-in" transform=3D"translate(0 64)" simcir-tran=
+sform-x=3D"0" simcir-transform-y=3D"64" simcir-transform-rotate=3D"undefine=
+d"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"in=
+" class=3D"simcir-node simcir-node-type-in" transform=3D"translate(0 72)" s=
+imcir-transform-x=3D"0" simcir-transform-y=3D"72" simcir-transform-rotate=
+=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-nod=
+e-type=3D"in" class=3D"simcir-node simcir-node-type-in" transform=3D"transl=
+ate(0 80)" simcir-transform-x=3D"0" simcir-transform-y=3D"80" simcir-transf=
+orm-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g =
+simcir-node-type=3D"in" class=3D"simcir-node simcir-node-type-in" transform=
+=3D"translate(0 88)" simcir-transform-x=3D"0" simcir-transform-y=3D"88" sim=
+cir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circ=
+le></g><g simcir-node-type=3D"in" class=3D"simcir-node simcir-node-type-in"=
+ transform=3D"translate(0 96)" simcir-transform-x=3D"0" simcir-transform-y=
+=3D"96" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=
+=3D"4"></circle></g><g simcir-node-type=3D"in" class=3D"simcir-node simcir-=
+node-type-in" transform=3D"translate(0 104)" simcir-transform-x=3D"0" simci=
+r-transform-y=3D"104" simcir-transform-rotate=3D"undefined"><circle cx=3D"0=
+" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"in" class=3D"simcir-=
+node simcir-node-type-in" transform=3D"translate(0 112)" simcir-transform-x=
+=3D"0" simcir-transform-y=3D"112" simcir-transform-rotate=3D"undefined"><ci=
+rcle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"in" clas=
+s=3D"simcir-node simcir-node-type-in" transform=3D"translate(0 120)" simcir=
+-transform-x=3D"0" simcir-transform-y=3D"120" simcir-transform-rotate=3D"un=
+defined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=
+=3D"in" class=3D"simcir-node simcir-node-type-in" transform=3D"translate(0 =
+128)" simcir-transform-x=3D"0" simcir-transform-y=3D"128" simcir-transform-=
+rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simc=
+ir-node-type=3D"in" class=3D"simcir-node simcir-node-type-in" transform=3D"=
+translate(0 136)" simcir-transform-x=3D"0" simcir-transform-y=3D"136" simci=
+r-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle=
+></g><text class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"32" y=
+=3D"156" style=3D"font-size: 12px;">16seg</text><g transform=3D"translate(8=
+ 37.21739130434783) scale(0.06956521739130435) "><rect x=3D"0" y=3D"0" widt=
+h=3D"690" height=3D"1000" stroke=3D"none" fill=3D"#000000"></rect><path d=
+=3D" M 255 184 L 356 184 L 407 142 L 373 102 L 187 102 Z" stroke=3D"none" f=
+ill=3D"#3f0000"></path><path d=3D" M 418 144 L 451 184 L 552 184 L 651 102 =
+L 468 102 Z" stroke=3D"none" fill=3D"#3f0000"></path><path d=3D" M 557 190 =
+L 507 455 L 540 495 L 590 454 L 656 108 Z" stroke=3D"none" fill=3D"#3f0000"=
+></path><path d=3D" M 487 550 L 438 816 L 506 898 L 573 547 L 539 507 Z" st=
+roke=3D"none" fill=3D"#3f0000"></path><path d=3D" M 281 863 L 315 903 L 500=
+ 903 L 432 821 L 331 821 Z" stroke=3D"none" fill=3D"#3f0000"></path><path d=
+=3D" M 35 903 L 220 903 L 270 861 L 236 821 L 135 821 Z" stroke=3D"none" fi=
+ll=3D"#3f0000"></path><path d=3D" M 97 548 L 30 897 L 129 815 L 180 547 L 1=
+47 507 Z" stroke=3D"none" fill=3D"#3f0000"></path><path d=3D" M 114 455 L 1=
+48 495 L 198 454 L 248 189 L 181 107 Z" stroke=3D"none" fill=3D"#3f0000"></=
+path><path d=3D" M 233 315 L 280 452 L 341 493 L 326 331 L 255 200 Z" strok=
+e=3D"none" fill=3D"#3f0000"></path><path d=3D" M 361 190 L 334 331 L 349 48=
+5 L 422 312 L 445 189 L 412 149 Z" stroke=3D"none" fill=3D"#3f0000"></path>=
+<path d=3D" M 430 316 L 354 492 L 432 452 L 522 334 L 547 200 Z" stroke=3D"=
+none" fill=3D"#3f0000"></path><path d=3D" M 354 502 L 408 542 L 484 542 L 5=
+34 500 L 501 460 L 434 460 Z" stroke=3D"none" fill=3D"#3f0000"></path><path=
+ d=3D" M 361 674 L 432 805 L 454 691 L 405 550 L 351 509 Z" stroke=3D"none"=
+ fill=3D"#3f0000"></path><path d=3D" M 265 693 L 242 816 L 276 856 L 326 81=
+5 L 353 676 L 343 518 Z" stroke=3D"none" fill=3D"#3f0000"></path><path d=3D=
+" M 255 546 L 165 671 L 139 805 L 258 689 L 338 510 Z" stroke=3D"none" fill=
+=3D"#3f0000"></path><path d=3D" M 153 502 L 187 542 L 254 542 L 338 500 L 2=
+78 460 L 203 460 Z" stroke=3D"none" fill=3D"#3f0000"></path><circle cx=3D"6=
+10" cy=3D"900" r=3D"30" stroke=3D"none" fill=3D"#3f0000"></circle></g></g><=
+g class=3D"simcir-device" transform=3D"translate(16 1452)" simcir-transform=
+-x=3D"16" simcir-transform-y=3D"1452" simcir-transform-rotate=3D"undefined"=
+><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0" width=
+=3D"64" height=3D"64"></rect><g simcir-node-type=3D"in" class=3D"simcir-nod=
+e simcir-node-type-in" transform=3D"translate(0 8)" simcir-transform-x=3D"0=
+" simcir-transform-y=3D"8" simcir-transform-rotate=3D"undefined"><circle cx=
+=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"in" class=3D"si=
+mcir-node simcir-node-type-in" transform=3D"translate(0 24)" simcir-transfo=
+rm-x=3D"0" simcir-transform-y=3D"24" simcir-transform-rotate=3D"undefined">=
+<circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"in" c=
+lass=3D"simcir-node simcir-node-type-in" transform=3D"translate(0 40)" simc=
+ir-transform-x=3D"0" simcir-transform-y=3D"40" simcir-transform-rotate=3D"u=
+ndefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-typ=
+e=3D"in" class=3D"simcir-node simcir-node-type-in" transform=3D"translate(0=
+ 56)" simcir-transform-x=3D"0" simcir-transform-y=3D"56" simcir-transform-r=
+otate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text cl=
+ass=3D"simcir-device-label" text-anchor=3D"middle" x=3D"32" y=3D"76" style=
+=3D"font-size: 12px;">4bit7seg</text><g transform=3D"translate(16.735999999=
+999997 8) scale(0.048) "><rect x=3D"0" y=3D"0" width=3D"636" height=3D"1000=
+" stroke=3D"none" fill=3D"#000000"></rect><path d=3D" M 575 138 L 494 211 L=
+ 249 211 L 194 137 L 213 120 L 559 120 Z" stroke=3D"none" fill=3D"#ff0000">=
+</path><path d=3D" M 595 160 L 544 452 L 493 500 L 459 456 L 500 220 L 582 =
+146 Z" stroke=3D"none" fill=3D"#ff0000"></path><path d=3D" M 525 560 L 476 =
+842 L 465 852 L 401 792 L 441 562 L 491 516 Z" stroke=3D"none" fill=3D"#ff0=
+000"></path><path d=3D" M 457 860 L 421 892 L 94 892 L 69 864 L 144 801 L 3=
+94 801 Z" stroke=3D"none" fill=3D"#ff0000"></path><path d=3D" M 181 560 L 1=
+41 789 L 61 856 L 48 841 L 96 566 L 148 516 Z" stroke=3D"none" fill=3D"#ff0=
+000"></path><path d=3D" M 241 218 L 200 453 L 150 500 L 115 454 L 166 162 L=
+ 185 145 Z" stroke=3D"none" fill=3D"#ff0000"></path><path d=3D" M 485 507 L=
+ 433 555 L 190 555 L 156 509 L 204 464 L 451 464 Z" stroke=3D"none" fill=3D=
+"#3f0000"></path><circle cx=3D"542" cy=3D"840" r=3D"46" stroke=3D"none" fil=
+l=3D"#3f0000"></circle></g></g><g class=3D"simcir-device" transform=3D"tran=
+slate(16 1536)" simcir-transform-x=3D"16" simcir-transform-y=3D"1536" simci=
+r-transform-rotate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2=
+" ry=3D"2" x=3D"0" y=3D"0" width=3D"64" height=3D"32"></rect><g simcir-node=
+-type=3D"in" class=3D"simcir-node simcir-node-type-in" transform=3D"transla=
+te(0 8)" simcir-transform-x=3D"0" simcir-transform-y=3D"8" simcir-transform=
+-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><text clas=
+s=3D"simcir-node-label" text-anchor=3D"start" x=3D"6" y=3D"6" style=3D"font=
+-size: 12px; pointer-events: none;">~S</text></g><g simcir-node-type=3D"in"=
+ class=3D"simcir-node simcir-node-type-in" transform=3D"translate(0 24)" si=
+mcir-transform-x=3D"0" simcir-transform-y=3D"24" simcir-transform-rotate=3D=
+"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><text class=3D"simci=
+r-node-label" text-anchor=3D"start" x=3D"6" y=3D"6" style=3D"font-size: 12p=
+x; pointer-events: none;">~R</text></g><g simcir-node-type=3D"out" class=3D=
+" simcir-node simcir-node-type-out simcir-node-hot" transform=3D"translate(=
+64 8)" simcir-transform-x=3D"64" simcir-transform-y=3D"8" simcir-transform-=
+rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><text class=
+=3D"simcir-node-label" text-anchor=3D"end" x=3D"-6" y=3D"6" style=3D"font-s=
+ize: 12px; pointer-events: none;">Q</text></g><g simcir-node-type=3D"out" c=
+lass=3D" simcir-node simcir-node-type-out simcir-node-hot" transform=3D"tra=
+nslate(64 24)" simcir-transform-x=3D"64" simcir-transform-y=3D"24" simcir-t=
+ransform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><t=
+ext class=3D"simcir-node-label" text-anchor=3D"end" x=3D"-6" y=3D"6" style=
+=3D"font-size: 12px; pointer-events: none;">~Q</text></g><text class=3D"sim=
+cir-device-label" text-anchor=3D"middle" x=3D"32" y=3D"44" style=3D"font-si=
+ze: 12px;">RS-FF</text></g><g class=3D"simcir-device" transform=3D"translat=
+e(16 1588)" simcir-transform-x=3D"16" simcir-transform-y=3D"1588" simcir-tr=
+ansform-rotate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=
+=3D"2" x=3D"0" y=3D"0" width=3D"64" height=3D"48"></rect><g simcir-node-typ=
+e=3D"in" class=3D"simcir-node simcir-node-type-in" transform=3D"translate(0=
+ 8)" simcir-transform-x=3D"0" simcir-transform-y=3D"8" simcir-transform-rot=
+ate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><text class=3D=
+"simcir-node-label" text-anchor=3D"start" x=3D"6" y=3D"6" style=3D"font-siz=
+e: 12px; pointer-events: none;">J</text></g><g simcir-node-type=3D"in" clas=
+s=3D"simcir-node simcir-node-type-in" transform=3D"translate(0 24)" simcir-=
+transform-x=3D"0" simcir-transform-y=3D"24" simcir-transform-rotate=3D"unde=
+fined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><text class=3D"simcir-nod=
+e-label" text-anchor=3D"start" x=3D"6" y=3D"6" style=3D"font-size: 12px; po=
+inter-events: none;">CLK</text></g><g simcir-node-type=3D"in" class=3D"simc=
+ir-node simcir-node-type-in" transform=3D"translate(0 40)" simcir-transform=
+-x=3D"0" simcir-transform-y=3D"40" simcir-transform-rotate=3D"undefined"><c=
+ircle cx=3D"0" cy=3D"0" r=3D"4"></circle><text class=3D"simcir-node-label" =
+text-anchor=3D"start" x=3D"6" y=3D"6" style=3D"font-size: 12px; pointer-eve=
+nts: none;">K</text></g><g simcir-node-type=3D"out" class=3D"  simcir-node =
+simcir-node-type-out" transform=3D"translate(64 16)" simcir-transform-x=3D"=
+64" simcir-transform-y=3D"16" simcir-transform-rotate=3D"undefined"><circle=
+ cx=3D"0" cy=3D"0" r=3D"4"></circle><text class=3D"simcir-node-label" text-=
+anchor=3D"end" x=3D"-6" y=3D"6" style=3D"font-size: 12px; pointer-events: n=
+one;">Q</text></g><g simcir-node-type=3D"out" class=3D" simcir-node simcir-=
+node-type-out simcir-node-hot" transform=3D"translate(64 32)" simcir-transf=
+orm-x=3D"64" simcir-transform-y=3D"32" simcir-transform-rotate=3D"undefined=
+"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><text class=3D"simcir-node-lab=
+el" text-anchor=3D"end" x=3D"-6" y=3D"6" style=3D"font-size: 12px; pointer-=
+events: none;">~Q</text></g><text class=3D"simcir-device-label" text-anchor=
+=3D"middle" x=3D"32" y=3D"60" style=3D"font-size: 12px;">JK-FF</text></g><g=
+ class=3D"simcir-device" transform=3D"translate(16 1656)" simcir-transform-=
+x=3D"16" simcir-transform-y=3D"1656" simcir-transform-rotate=3D"undefined">=
+<rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0" width=
+=3D"64" height=3D"32"></rect><g simcir-node-type=3D"in" class=3D"simcir-nod=
+e simcir-node-type-in" transform=3D"translate(0 8)" simcir-transform-x=3D"0=
+" simcir-transform-y=3D"8" simcir-transform-rotate=3D"undefined"><circle cx=
+=3D"0" cy=3D"0" r=3D"4"></circle><text class=3D"simcir-node-label" text-anc=
+hor=3D"start" x=3D"6" y=3D"6" style=3D"font-size: 12px; pointer-events: non=
+e;">T</text></g><g simcir-node-type=3D"in" class=3D"simcir-node simcir-node=
+-type-in" transform=3D"translate(0 24)" simcir-transform-x=3D"0" simcir-tra=
+nsform-y=3D"24" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=
+=3D"0" r=3D"4"></circle><text class=3D"simcir-node-label" text-anchor=3D"st=
+art" x=3D"6" y=3D"6" style=3D"font-size: 12px; pointer-events: none;">CLK</=
+text></g><g simcir-node-type=3D"out" class=3D"  simcir-node simcir-node-typ=
+e-out" transform=3D"translate(64 8)" simcir-transform-x=3D"64" simcir-trans=
+form-y=3D"8" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0=
+" r=3D"4"></circle><text class=3D"simcir-node-label" text-anchor=3D"end" x=
+=3D"-6" y=3D"6" style=3D"font-size: 12px; pointer-events: none;">Q</text></=
+g><g simcir-node-type=3D"out" class=3D" simcir-node simcir-node-type-out si=
+mcir-node-hot" transform=3D"translate(64 24)" simcir-transform-x=3D"64" sim=
+cir-transform-y=3D"24" simcir-transform-rotate=3D"undefined"><circle cx=3D"=
+0" cy=3D"0" r=3D"4"></circle><text class=3D"simcir-node-label" text-anchor=
+=3D"end" x=3D"-6" y=3D"6" style=3D"font-size: 12px; pointer-events: none;">=
+~Q</text></g><text class=3D"simcir-device-label" text-anchor=3D"middle" x=
+=3D"32" y=3D"44" style=3D"font-size: 12px;">T-FF</text></g><g class=3D"simc=
+ir-device" transform=3D"translate(16 1708)" simcir-transform-x=3D"16" simci=
+r-transform-y=3D"1708" simcir-transform-rotate=3D"undefined"><rect class=3D=
+"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0" width=3D"64" height=
+=3D"32"></rect><g simcir-node-type=3D"in" class=3D"simcir-node simcir-node-=
+type-in" transform=3D"translate(0 8)" simcir-transform-x=3D"0" simcir-trans=
+form-y=3D"8" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0=
+" r=3D"4"></circle><text class=3D"simcir-node-label" text-anchor=3D"start" =
+x=3D"6" y=3D"6" style=3D"font-size: 12px; pointer-events: none;">D</text></=
+g><g simcir-node-type=3D"in" class=3D"simcir-node simcir-node-type-in" tran=
+sform=3D"translate(0 24)" simcir-transform-x=3D"0" simcir-transform-y=3D"24=
+" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"><=
+/circle><text class=3D"simcir-node-label" text-anchor=3D"start" x=3D"6" y=
+=3D"6" style=3D"font-size: 12px; pointer-events: none;">CLK</text></g><g si=
+mcir-node-type=3D"out" class=3D" simcir-node simcir-node-type-out simcir-no=
+de-hot" transform=3D"translate(64 8)" simcir-transform-x=3D"64" simcir-tran=
+sform-y=3D"8" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"=
+0" r=3D"4"></circle><text class=3D"simcir-node-label" text-anchor=3D"end" x=
+=3D"-6" y=3D"6" style=3D"font-size: 12px; pointer-events: none;">Q</text></=
+g><g simcir-node-type=3D"out" class=3D"  simcir-node simcir-node-type-out" =
+transform=3D"translate(64 24)" simcir-transform-x=3D"64" simcir-transform-y=
+=3D"24" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=
+=3D"4"></circle><text class=3D"simcir-node-label" text-anchor=3D"end" x=3D"=
+-6" y=3D"6" style=3D"font-size: 12px; pointer-events: none;">~Q</text></g><=
+text class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"32" y=3D"44"=
+ style=3D"font-size: 12px;">D-FF</text></g><g class=3D"simcir-device" trans=
+form=3D"translate(16 1760)" simcir-transform-x=3D"16" simcir-transform-y=3D=
+"1760" simcir-transform-rotate=3D"undefined"><rect class=3D"simcir-device-b=
+ody" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0" width=3D"64" height=3D"32"></rect><g=
+ simcir-node-type=3D"in" class=3D"simcir-node simcir-node-type-in" transfor=
+m=3D"translate(0 8)" simcir-transform-x=3D"0" simcir-transform-y=3D"8" simc=
+ir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circl=
+e><text class=3D"simcir-node-label" text-anchor=3D"start" x=3D"6" y=3D"6" s=
+tyle=3D"font-size: 12px; pointer-events: none;">A</text></g><g simcir-node-=
+type=3D"in" class=3D"simcir-node simcir-node-type-in" transform=3D"translat=
+e(0 24)" simcir-transform-x=3D"0" simcir-transform-y=3D"24" simcir-transfor=
+m-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><text cla=
+ss=3D"simcir-node-label" text-anchor=3D"start" x=3D"6" y=3D"6" style=3D"fon=
+t-size: 12px; pointer-events: none;">B</text></g><g simcir-node-type=3D"out=
+" class=3D"simcir-node simcir-node-type-out" transform=3D"translate(64 8)" =
+simcir-transform-x=3D"64" simcir-transform-y=3D"8" simcir-transform-rotate=
+=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><text class=3D"si=
+mcir-node-label" text-anchor=3D"end" x=3D"-6" y=3D"6" style=3D"font-size: 1=
+2px; pointer-events: none;">S</text></g><g simcir-node-type=3D"out" class=
+=3D"simcir-node simcir-node-type-out" transform=3D"translate(64 24)" simcir=
+-transform-x=3D"64" simcir-transform-y=3D"24" simcir-transform-rotate=3D"un=
+defined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><text class=3D"simcir-n=
+ode-label" text-anchor=3D"end" x=3D"-6" y=3D"6" style=3D"font-size: 12px; p=
+ointer-events: none;">C</text></g><text class=3D"simcir-device-label" text-=
+anchor=3D"middle" x=3D"32" y=3D"44" style=3D"font-size: 12px;">HalfAdder</t=
+ext></g><g class=3D"simcir-device" transform=3D"translate(16 1812)" simcir-=
+transform-x=3D"16" simcir-transform-y=3D"1812" simcir-transform-rotate=3D"u=
+ndefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D=
+"0" width=3D"64" height=3D"48"></rect><g simcir-node-type=3D"in" class=3D"s=
+imcir-node simcir-node-type-in" transform=3D"translate(0 8)" simcir-transfo=
+rm-x=3D"0" simcir-transform-y=3D"8" simcir-transform-rotate=3D"undefined"><=
+circle cx=3D"0" cy=3D"0" r=3D"4"></circle><text class=3D"simcir-node-label"=
+ text-anchor=3D"start" x=3D"6" y=3D"6" style=3D"font-size: 12px; pointer-ev=
+ents: none;">Cin</text></g><g simcir-node-type=3D"in" class=3D"simcir-node =
+simcir-node-type-in" transform=3D"translate(0 24)" simcir-transform-x=3D"0"=
+ simcir-transform-y=3D"24" simcir-transform-rotate=3D"undefined"><circle cx=
+=3D"0" cy=3D"0" r=3D"4"></circle><text class=3D"simcir-node-label" text-anc=
+hor=3D"start" x=3D"6" y=3D"6" style=3D"font-size: 12px; pointer-events: non=
+e;">A</text></g><g simcir-node-type=3D"in" class=3D"simcir-node simcir-node=
+-type-in" transform=3D"translate(0 40)" simcir-transform-x=3D"0" simcir-tra=
+nsform-y=3D"40" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=
+=3D"0" r=3D"4"></circle><text class=3D"simcir-node-label" text-anchor=3D"st=
+art" x=3D"6" y=3D"6" style=3D"font-size: 12px; pointer-events: none;">B</te=
+xt></g><g simcir-node-type=3D"out" class=3D"simcir-node simcir-node-type-ou=
+t" transform=3D"translate(64 16)" simcir-transform-x=3D"64" simcir-transfor=
+m-y=3D"16" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" =
+r=3D"4"></circle><text class=3D"simcir-node-label" text-anchor=3D"end" x=3D=
+"-6" y=3D"6" style=3D"font-size: 12px; pointer-events: none;">S</text></g><=
+g simcir-node-type=3D"out" class=3D"simcir-node simcir-node-type-out" trans=
+form=3D"translate(64 32)" simcir-transform-x=3D"64" simcir-transform-y=3D"3=
+2" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4">=
+</circle><text class=3D"simcir-node-label" text-anchor=3D"end" x=3D"-6" y=
+=3D"6" style=3D"font-size: 12px; pointer-events: none;">Cout</text></g><tex=
+t class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"32" y=3D"60" st=
+yle=3D"font-size: 12px;">FullAdder</text></g><g class=3D"simcir-device" tra=
+nsform=3D"translate(16 1880)" simcir-transform-x=3D"16" simcir-transform-y=
+=3D"1880" simcir-transform-rotate=3D"undefined"><rect class=3D"simcir-devic=
+e-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0" width=3D"64" height=3D"80"></rect=
+><g simcir-node-type=3D"in" class=3D"simcir-node simcir-node-type-in" trans=
+form=3D"translate(0 8)" simcir-transform-x=3D"0" simcir-transform-y=3D"8" s=
+imcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></ci=
+rcle><text class=3D"simcir-node-label" text-anchor=3D"start" x=3D"6" y=3D"6=
+" style=3D"font-size: 12px; pointer-events: none;">J</text></g><g simcir-no=
+de-type=3D"in" class=3D"simcir-node simcir-node-type-in" transform=3D"trans=
+late(0 24)" simcir-transform-x=3D"0" simcir-transform-y=3D"24" simcir-trans=
+form-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><text =
+class=3D"simcir-node-label" text-anchor=3D"start" x=3D"6" y=3D"6" style=3D"=
+font-size: 12px; pointer-events: none;">CLK</text></g><g simcir-node-type=
+=3D"in" class=3D"simcir-node simcir-node-type-in" transform=3D"translate(0 =
+40)" simcir-transform-x=3D"0" simcir-transform-y=3D"40" simcir-transform-ro=
+tate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><text class=
+=3D"simcir-node-label" text-anchor=3D"start" x=3D"6" y=3D"6" style=3D"font-=
+size: 12px; pointer-events: none;">K</text></g><g simcir-node-type=3D"in" c=
+lass=3D"simcir-node simcir-node-type-in" transform=3D"translate(0 56)" simc=
+ir-transform-x=3D"0" simcir-transform-y=3D"56" simcir-transform-rotate=3D"u=
+ndefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><text class=3D"simcir-=
+node-label" text-anchor=3D"start" x=3D"6" y=3D"6" style=3D"font-size: 12px;=
+ pointer-events: none;">~PRE</text></g><g simcir-node-type=3D"in" class=3D"=
+simcir-node simcir-node-type-in" transform=3D"translate(0 72)" simcir-trans=
+form-x=3D"0" simcir-transform-y=3D"72" simcir-transform-rotate=3D"undefined=
+"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><text class=3D"simcir-node-lab=
+el" text-anchor=3D"start" x=3D"6" y=3D"6" style=3D"font-size: 12px; pointer=
+-events: none;">~CLR</text></g><g simcir-node-type=3D"out" class=3D"simcir-=
+node simcir-node-type-out" transform=3D"translate(64 32)" simcir-transform-=
+x=3D"64" simcir-transform-y=3D"32" simcir-transform-rotate=3D"undefined"><c=
+ircle cx=3D"0" cy=3D"0" r=3D"4"></circle><text class=3D"simcir-node-label" =
+text-anchor=3D"end" x=3D"-6" y=3D"6" style=3D"font-size: 12px; pointer-even=
+ts: none;">Q</text></g><g simcir-node-type=3D"out" class=3D" simcir-node si=
+mcir-node-type-out simcir-node-hot" transform=3D"translate(64 48)" simcir-t=
+ransform-x=3D"64" simcir-transform-y=3D"48" simcir-transform-rotate=3D"unde=
+fined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><text class=3D"simcir-nod=
+e-label" text-anchor=3D"end" x=3D"-6" y=3D"6" style=3D"font-size: 12px; poi=
+nter-events: none;">~Q</text></g><text class=3D"simcir-device-label" text-a=
+nchor=3D"middle" x=3D"32" y=3D"92" style=3D"font-size: 12px;">JK-FF(CP)</te=
+xt></g><g class=3D"simcir-device" transform=3D"translate(16 1980)" simcir-t=
+ransform-x=3D"16" simcir-transform-y=3D"1980" simcir-transform-rotate=3D"un=
+defined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"=
+0" width=3D"64" height=3D"64"></rect><g simcir-node-type=3D"in" class=3D"si=
+mcir-node simcir-node-type-in" transform=3D"translate(0 8)" simcir-transfor=
+m-x=3D"0" simcir-transform-y=3D"8" simcir-transform-rotate=3D"undefined"><c=
+ircle cx=3D"0" cy=3D"0" r=3D"4"></circle><text class=3D"simcir-node-label" =
+text-anchor=3D"start" x=3D"6" y=3D"6" style=3D"font-size: 12px; pointer-eve=
+nts: none;">D</text></g><g simcir-node-type=3D"in" class=3D"simcir-node sim=
+cir-node-type-in" transform=3D"translate(0 24)" simcir-transform-x=3D"0" si=
+mcir-transform-y=3D"24" simcir-transform-rotate=3D"undefined"><circle cx=3D=
+"0" cy=3D"0" r=3D"4"></circle><text class=3D"simcir-node-label" text-anchor=
+=3D"start" x=3D"6" y=3D"6" style=3D"font-size: 12px; pointer-events: none;"=
+>CLK</text></g><g simcir-node-type=3D"in" class=3D"simcir-node simcir-node-=
+type-in" transform=3D"translate(0 40)" simcir-transform-x=3D"0" simcir-tran=
+sform-y=3D"40" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D=
+"0" r=3D"4"></circle><text class=3D"simcir-node-label" text-anchor=3D"start=
+" x=3D"6" y=3D"6" style=3D"font-size: 12px; pointer-events: none;">~PRE</te=
+xt></g><g simcir-node-type=3D"in" class=3D"simcir-node simcir-node-type-in"=
+ transform=3D"translate(0 56)" simcir-transform-x=3D"0" simcir-transform-y=
+=3D"56" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=
+=3D"4"></circle><text class=3D"simcir-node-label" text-anchor=3D"start" x=
+=3D"6" y=3D"6" style=3D"font-size: 12px; pointer-events: none;">~CLR</text>=
+</g><g simcir-node-type=3D"out" class=3D"simcir-node simcir-node-type-out" =
+transform=3D"translate(64 24)" simcir-transform-x=3D"64" simcir-transform-y=
+=3D"24" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=
+=3D"4"></circle><text class=3D"simcir-node-label" text-anchor=3D"end" x=3D"=
+-6" y=3D"6" style=3D"font-size: 12px; pointer-events: none;">Q</text></g><g=
+ simcir-node-type=3D"out" class=3D" simcir-node simcir-node-type-out simcir=
+-node-hot" transform=3D"translate(64 40)" simcir-transform-x=3D"64" simcir-=
+transform-y=3D"40" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" c=
+y=3D"0" r=3D"4"></circle><text class=3D"simcir-node-label" text-anchor=3D"e=
+nd" x=3D"-6" y=3D"6" style=3D"font-size: 12px; pointer-events: none;">~Q</t=
+ext></g><text class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"32"=
+ y=3D"76" style=3D"font-size: 12px;">D-FF(CP)</text></g><g class=3D"simcir-=
+device" transform=3D"translate(16 2064)" simcir-transform-x=3D"16" simcir-t=
+ransform-y=3D"2064" simcir-transform-rotate=3D"undefined"><rect class=3D"si=
+mcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0" width=3D"64" height=3D"=
+48"></rect><g simcir-node-type=3D"in" class=3D"simcir-node simcir-node-type=
+-in" transform=3D"translate(0 8)" simcir-transform-x=3D"0" simcir-transform=
+-y=3D"8" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=
+=3D"4"></circle><text class=3D"simcir-node-label" text-anchor=3D"start" x=
+=3D"6" y=3D"6" style=3D"font-size: 12px; pointer-events: none;">D0</text></=
+g><g simcir-node-type=3D"in" class=3D"simcir-node simcir-node-type-in" tran=
+sform=3D"translate(0 24)" simcir-transform-x=3D"0" simcir-transform-y=3D"24=
+" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"><=
+/circle><text class=3D"simcir-node-label" text-anchor=3D"start" x=3D"6" y=
+=3D"6" style=3D"font-size: 12px; pointer-events: none;">S</text></g><g simc=
+ir-node-type=3D"in" class=3D"simcir-node simcir-node-type-in" transform=3D"=
+translate(0 40)" simcir-transform-x=3D"0" simcir-transform-y=3D"40" simcir-=
+transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><=
+text class=3D"simcir-node-label" text-anchor=3D"start" x=3D"6" y=3D"6" styl=
+e=3D"font-size: 12px; pointer-events: none;">D1</text></g><g simcir-node-ty=
+pe=3D"out" class=3D"simcir-node simcir-node-type-out" transform=3D"translat=
+e(64 24)" simcir-transform-x=3D"64" simcir-transform-y=3D"24" simcir-transf=
+orm-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><text c=
+lass=3D"simcir-node-label" text-anchor=3D"end" x=3D"-6" y=3D"6" style=3D"fo=
+nt-size: 12px; pointer-events: none;">Y</text></g><text class=3D"simcir-dev=
+ice-label" text-anchor=3D"middle" x=3D"32" y=3D"60" style=3D"font-size: 12p=
+x;">MUX</text></g></g><g class=3D"simcir-scrollbar" transform=3D"translate(=
+96 0)" simcir-transform-x=3D"96" simcir-transform-y=3D"0" simcir-transform-=
+rotate=3D"undefined"><rect x=3D"0" y=3D"0" width=3D"16" height=3D"600"></re=
+ct><g class=3D"simcir-scrollbar-bar" transform=3D"translate(0 0)" simcir-tr=
+ansform-x=3D"0" simcir-transform-y=3D"0" simcir-transform-rotate=3D"undefin=
+ed" style=3D"display: inline;"><rect x=3D"0" y=3D"0" width=3D"16" height=3D=
+"168.85553470919325"></rect></g></g></g><g transform=3D"translate(112 0)" s=
+imcir-transform-x=3D"112" simcir-transform-y=3D"0" simcir-transform-rotate=
+=3D"undefined"><g class=3D"simcir-device" transform=3D"translate(272 88)" s=
+imcir-transform-x=3D"272" simcir-transform-y=3D"88" simcir-transform-rotate=
+=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0"=
+ y=3D"0" width=3D"64" height=3D"64"></rect><g simcir-node-type=3D"in" class=
+=3D"  simcir-node simcir-node-type-in simcir-node-hot" transform=3D"transla=
+te(0 8)" simcir-transform-x=3D"0" simcir-transform-y=3D"8" simcir-transform=
+-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><text clas=
+s=3D"simcir-node-label" text-anchor=3D"start" x=3D"6" y=3D"6" style=3D"font=
+-size: 12px; pointer-events: none;">D</text></g><g simcir-node-type=3D"in" =
+class=3D" simcir-node simcir-node-type-in" transform=3D"translate(0 24)" si=
+mcir-transform-x=3D"0" simcir-transform-y=3D"24" simcir-transform-rotate=3D=
+"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><text class=3D"simci=
+r-node-label" text-anchor=3D"start" x=3D"6" y=3D"6" style=3D"font-size: 12p=
+x; pointer-events: none;">CLK</text></g><g simcir-node-type=3D"in" class=3D=
+"  simcir-node simcir-node-type-in simcir-node-hot" transform=3D"translate(=
+0 40)" simcir-transform-x=3D"0" simcir-transform-y=3D"40" simcir-transform-=
+rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><text class=
+=3D"simcir-node-label" text-anchor=3D"start" x=3D"6" y=3D"6" style=3D"font-=
+size: 12px; pointer-events: none;">~PRE</text></g><g simcir-node-type=3D"in=
+" class=3D"  simcir-node simcir-node-type-in simcir-node-hot" transform=3D"=
+translate(0 56)" simcir-transform-x=3D"0" simcir-transform-y=3D"56" simcir-=
+transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><=
+text class=3D"simcir-node-label" text-anchor=3D"start" x=3D"6" y=3D"6" styl=
+e=3D"font-size: 12px; pointer-events: none;">~CLR</text></g><g simcir-node-=
+type=3D"out" class=3D"simcir-node simcir-node-type-out" transform=3D"transl=
+ate(64 24)" simcir-transform-x=3D"64" simcir-transform-y=3D"24" simcir-tran=
+sform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><text=
+ class=3D"simcir-node-label" text-anchor=3D"end" x=3D"-6" y=3D"6" style=3D"=
+font-size: 12px; pointer-events: none;">Q</text></g><g simcir-node-type=3D"=
+out" class=3D" simcir-node simcir-node-type-out simcir-node-hot" transform=
+=3D"translate(64 40)" simcir-transform-x=3D"64" simcir-transform-y=3D"40" s=
+imcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></ci=
+rcle><text class=3D"simcir-node-label" text-anchor=3D"end" x=3D"-6" y=3D"6"=
+ style=3D"font-size: 12px; pointer-events: none;">~Q</text></g><text class=
+=3D"simcir-device-label" text-anchor=3D"middle" x=3D"32" y=3D"76" style=3D"=
+font-size: 12px;">D-FF(CP)</text></g><g class=3D"simcir-device" transform=
+=3D"translate(272 200)" simcir-transform-x=3D"272" simcir-transform-y=3D"20=
+0" simcir-transform-rotate=3D"undefined"><rect class=3D"simcir-device-body"=
+ rx=3D"2" ry=3D"2" x=3D"0" y=3D"0" width=3D"64" height=3D"64"></rect><g sim=
+cir-node-type=3D"in" class=3D" simcir-node simcir-node-type-in" transform=
+=3D"translate(0 8)" simcir-transform-x=3D"0" simcir-transform-y=3D"8" simci=
+r-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle=
+><text class=3D"simcir-node-label" text-anchor=3D"start" x=3D"6" y=3D"6" st=
+yle=3D"font-size: 12px; pointer-events: none;">D</text></g><g simcir-node-t=
+ype=3D"in" class=3D" simcir-node simcir-node-type-in" transform=3D"translat=
+e(0 24)" simcir-transform-x=3D"0" simcir-transform-y=3D"24" simcir-transfor=
+m-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><text cla=
+ss=3D"simcir-node-label" text-anchor=3D"start" x=3D"6" y=3D"6" style=3D"fon=
+t-size: 12px; pointer-events: none;">CLK</text></g><g simcir-node-type=3D"i=
+n" class=3D"  simcir-node simcir-node-type-in simcir-node-hot" transform=3D=
+"translate(0 40)" simcir-transform-x=3D"0" simcir-transform-y=3D"40" simcir=
+-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle>=
+<text class=3D"simcir-node-label" text-anchor=3D"start" x=3D"6" y=3D"6" sty=
+le=3D"font-size: 12px; pointer-events: none;">~PRE</text></g><g simcir-node=
+-type=3D"in" class=3D"  simcir-node simcir-node-type-in simcir-node-hot" tr=
+ansform=3D"translate(0 56)" simcir-transform-x=3D"0" simcir-transform-y=3D"=
+56" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"=
+></circle><text class=3D"simcir-node-label" text-anchor=3D"start" x=3D"6" y=
+=3D"6" style=3D"font-size: 12px; pointer-events: none;">~CLR</text></g><g s=
+imcir-node-type=3D"out" class=3D"simcir-node simcir-node-type-out" transfor=
+m=3D"translate(64 24)" simcir-transform-x=3D"64" simcir-transform-y=3D"24" =
+simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></c=
+ircle><text class=3D"simcir-node-label" text-anchor=3D"end" x=3D"-6" y=3D"6=
+" style=3D"font-size: 12px; pointer-events: none;">Q</text></g><g simcir-no=
+de-type=3D"out" class=3D" simcir-node simcir-node-type-out simcir-node-hot"=
+ transform=3D"translate(64 40)" simcir-transform-x=3D"64" simcir-transform-=
+y=3D"40" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=
+=3D"4"></circle><text class=3D"simcir-node-label" text-anchor=3D"end" x=3D"=
+-6" y=3D"6" style=3D"font-size: 12px; pointer-events: none;">~Q</text></g><=
+text class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"32" y=3D"76"=
+ style=3D"font-size: 12px;">D-FF(CP)</text></g><g class=3D"simcir-device" t=
+ransform=3D"translate(272 312)" simcir-transform-x=3D"272" simcir-transform=
+-y=3D"312" simcir-transform-rotate=3D"undefined"><rect class=3D"simcir-devi=
+ce-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0" width=3D"64" height=3D"64"></rec=
+t><g simcir-node-type=3D"in" class=3D" simcir-node simcir-node-type-in" tra=
+nsform=3D"translate(0 8)" simcir-transform-x=3D"0" simcir-transform-y=3D"8"=
+ simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></=
+circle><text class=3D"simcir-node-label" text-anchor=3D"start" x=3D"6" y=3D=
+"6" style=3D"font-size: 12px; pointer-events: none;">D</text></g><g simcir-=
+node-type=3D"in" class=3D" simcir-node simcir-node-type-in" transform=3D"tr=
+anslate(0 24)" simcir-transform-x=3D"0" simcir-transform-y=3D"24" simcir-tr=
+ansform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><te=
+xt class=3D"simcir-node-label" text-anchor=3D"start" x=3D"6" y=3D"6" style=
+=3D"font-size: 12px; pointer-events: none;">CLK</text></g><g simcir-node-ty=
+pe=3D"in" class=3D"  simcir-node simcir-node-type-in simcir-node-hot" trans=
+form=3D"translate(0 40)" simcir-transform-x=3D"0" simcir-transform-y=3D"40"=
+ simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></=
+circle><text class=3D"simcir-node-label" text-anchor=3D"start" x=3D"6" y=3D=
+"6" style=3D"font-size: 12px; pointer-events: none;">~PRE</text></g><g simc=
+ir-node-type=3D"in" class=3D"  simcir-node simcir-node-type-in simcir-node-=
+hot" transform=3D"translate(0 56)" simcir-transform-x=3D"0" simcir-transfor=
+m-y=3D"56" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" =
+r=3D"4"></circle><text class=3D"simcir-node-label" text-anchor=3D"start" x=
+=3D"6" y=3D"6" style=3D"font-size: 12px; pointer-events: none;">~CLR</text>=
+</g><g simcir-node-type=3D"out" class=3D"simcir-node simcir-node-type-out" =
+transform=3D"translate(64 24)" simcir-transform-x=3D"64" simcir-transform-y=
+=3D"24" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=
+=3D"4"></circle><text class=3D"simcir-node-label" text-anchor=3D"end" x=3D"=
+-6" y=3D"6" style=3D"font-size: 12px; pointer-events: none;">Q</text></g><g=
+ simcir-node-type=3D"out" class=3D" simcir-node simcir-node-type-out simcir=
+-node-hot" transform=3D"translate(64 40)" simcir-transform-x=3D"64" simcir-=
+transform-y=3D"40" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" c=
+y=3D"0" r=3D"4"></circle><text class=3D"simcir-node-label" text-anchor=3D"e=
+nd" x=3D"-6" y=3D"6" style=3D"font-size: 12px; pointer-events: none;">~Q</t=
+ext></g><text class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"32"=
+ y=3D"76" style=3D"font-size: 12px;">D-FF(CP)</text></g><g class=3D"simcir-=
+device" transform=3D"translate(240 136)" simcir-transform-x=3D"240" simcir-=
+transform-y=3D"136" simcir-transform-rotate=3D"undefined"><rect class=3D"si=
+mcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"4" width=3D"16" height=3D"=
+8" style=3D"opacity: 0;"></rect><g simcir-node-type=3D"in" class=3D"  simci=
+r-node simcir-node-type-in simcir-node-hot" transform=3D"translate(0 8)" si=
+mcir-transform-x=3D"0" simcir-transform-y=3D"8" simcir-transform-rotate=3D"=
+undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle=
+></g><g simcir-node-type=3D"out" class=3D" simcir-node simcir-node-type-out=
+ simcir-node-hot" transform=3D"translate(16 8)" simcir-transform-x=3D"16" s=
+imcir-transform-y=3D"8" simcir-transform-rotate=3D"undefined" style=3D"opac=
+ity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simc=
+ir-device-label" text-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"font-size=
+: 12px; display: none;">Joint</text><circle r=3D"2" class=3D"  simcir-conne=
+ctor simcir-joint-point" cx=3D"16" cy=3D"8" style=3D"pointer-events: none; =
+opacity: 1; display: none;"></circle><path class=3D"  simcir-connector" d=
+=3D"M0 8L16 8" style=3D"pointer-events: none; opacity: 1;"></path><title>Do=
+uble-Click to change a direction.</title></g><g class=3D"simcir-device" tra=
+nsform=3D"translate(232 256)" simcir-transform-x=3D"232" simcir-transform-y=
+=3D"256" simcir-transform-rotate=3D"undefined"><rect class=3D"simcir-device=
+-body" rx=3D"2" ry=3D"2" x=3D"4" y=3D"0" width=3D"8" height=3D"16" style=3D=
+"opacity: 0;"></rect><g simcir-node-type=3D"in" class=3D"  simcir-node simc=
+ir-node-type-in simcir-node-hot" transform=3D"translate(8 16)" simcir-trans=
+form-x=3D"8" simcir-transform-y=3D"16" simcir-transform-rotate=3D"undefined=
+" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g s=
+imcir-node-type=3D"out" class=3D" simcir-node simcir-node-type-out simcir-n=
+ode-hot" transform=3D"translate(8 0)" simcir-transform-x=3D"8" simcir-trans=
+form-y=3D"0" simcir-transform-rotate=3D"undefined" style=3D"opacity: 0;"><c=
+ircle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-device-l=
+abel" text-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"font-size: 12px; dis=
+play: none;">Joint</text><circle r=3D"2" class=3D"  simcir-connector simcir=
+-joint-point" cx=3D"8" cy=3D"0" style=3D"pointer-events: none; opacity: 1;"=
+></circle><path class=3D"  simcir-connector" d=3D"M8 16L8 0" style=3D"point=
+er-events: none; opacity: 1;"></path><title>Double-Click to change a direct=
+ion.</title></g><g class=3D"simcir-device" transform=3D"translate(232 368)"=
+ simcir-transform-x=3D"232" simcir-transform-y=3D"368" simcir-transform-rot=
+ate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D=
+"4" y=3D"0" width=3D"8" height=3D"16" style=3D"opacity: 0;"></rect><g simci=
+r-node-type=3D"in" class=3D"  simcir-node simcir-node-type-in simcir-node-h=
+ot" transform=3D"translate(8 16)" simcir-transform-x=3D"8" simcir-transform=
+-y=3D"16" simcir-transform-rotate=3D"undefined" style=3D"opacity: 0;"><circ=
+le cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"out" class=
+=3D" simcir-node simcir-node-type-out simcir-node-hot" transform=3D"transla=
+te(8 0)" simcir-transform-x=3D"8" simcir-transform-y=3D"0" simcir-transform=
+-rotate=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"=
+4"></circle></g><text class=3D"simcir-device-label" text-anchor=3D"middle" =
+x=3D"8" y=3D"24" style=3D"font-size: 12px; display: none;">Joint</text><cir=
+cle r=3D"2" class=3D"  simcir-connector simcir-joint-point" cx=3D"8" cy=3D"=
+0" style=3D"pointer-events: none; opacity: 1;"></circle><path class=3D"  si=
+mcir-connector" d=3D"M8 16L8 0" style=3D"pointer-events: none; opacity: 1;"=
+></path><title>Double-Click to change a direction.</title></g><g class=3D"s=
+imcir-device" transform=3D"translate(224 128)" simcir-transform-x=3D"224" s=
+imcir-transform-y=3D"128" simcir-transform-rotate=3D"undefined"><rect class=
+=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"4" y=3D"0" width=3D"8" heigh=
+t=3D"16" style=3D"opacity: 0;"></rect><g simcir-node-type=3D"in" class=3D" =
+ simcir-node simcir-node-type-in simcir-node-hot" transform=3D"translate(8 =
+16)" simcir-transform-x=3D"8" simcir-transform-y=3D"16" simcir-transform-ro=
+tate=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4">=
+</circle></g><g simcir-node-type=3D"out" class=3D" simcir-node simcir-node-=
+type-out simcir-node-hot" transform=3D"translate(8 0)" simcir-transform-x=
+=3D"8" simcir-transform-y=3D"0" simcir-transform-rotate=3D"undefined" style=
+=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=
+=3D"simcir-device-label" text-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"f=
+ont-size: 12px; display: none;">Joint</text><circle r=3D"2" class=3D"  simc=
+ir-connector simcir-joint-point" cx=3D"8" cy=3D"0" style=3D"pointer-events:=
+ none; opacity: 1; display: none;"></circle><path class=3D"  simcir-connect=
+or" d=3D"M8 16L8 0" style=3D"pointer-events: none; opacity: 1;"></path><tit=
+le>Double-Click to change a direction.</title></g><g class=3D"simcir-device=
+" transform=3D"translate(224 240)" simcir-transform-x=3D"224" simcir-transf=
+orm-y=3D"240" simcir-transform-rotate=3D"undefined"><rect class=3D"simcir-d=
+evice-body" rx=3D"2" ry=3D"2" x=3D"4" y=3D"0" width=3D"8" height=3D"16" sty=
+le=3D"opacity: 0;"></rect><g simcir-node-type=3D"in" class=3D"  simcir-node=
+ simcir-node-type-in simcir-node-hot" transform=3D"translate(8 16)" simcir-=
+transform-x=3D"8" simcir-transform-y=3D"16" simcir-transform-rotate=3D"unde=
+fined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g=
+><g simcir-node-type=3D"out" class=3D" simcir-node simcir-node-type-out sim=
+cir-node-hot" transform=3D"translate(8 0)" simcir-transform-x=3D"8" simcir-=
+transform-y=3D"0" simcir-transform-rotate=3D"undefined" style=3D"opacity: 0=
+;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-dev=
+ice-label" text-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"font-size: 12px=
+; display: none;">Joint</text><circle r=3D"2" class=3D"  simcir-connector s=
+imcir-joint-point" cx=3D"8" cy=3D"0" style=3D"pointer-events: none; opacity=
+: 1;"></circle><path class=3D"  simcir-connector" d=3D"M8 16L8 0" style=3D"=
+pointer-events: none; opacity: 1;"></path><title>Double-Click to change a d=
+irection.</title></g><g class=3D"simcir-device" transform=3D"translate(224 =
+352)" simcir-transform-x=3D"224" simcir-transform-y=3D"352" simcir-transfor=
+m-rotate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2"=
+ x=3D"4" y=3D"0" width=3D"8" height=3D"16" style=3D"opacity: 0;"></rect><g =
+simcir-node-type=3D"in" class=3D"  simcir-node simcir-node-type-in simcir-n=
+ode-hot" transform=3D"translate(8 16)" simcir-transform-x=3D"8" simcir-tran=
+sform-y=3D"16" simcir-transform-rotate=3D"undefined" style=3D"opacity: 0;">=
+<circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"out" =
+class=3D" simcir-node simcir-node-type-out simcir-node-hot" transform=3D"tr=
+anslate(8 0)" simcir-transform-x=3D"8" simcir-transform-y=3D"0" simcir-tran=
+sform-rotate=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" =
+r=3D"4"></circle></g><text class=3D"simcir-device-label" text-anchor=3D"mid=
+dle" x=3D"8" y=3D"24" style=3D"font-size: 12px; display: none;">Joint</text=
+><circle r=3D"2" class=3D"  simcir-connector simcir-joint-point" cx=3D"8" c=
+y=3D"0" style=3D"pointer-events: none; opacity: 1;"></circle><path class=3D=
+"  simcir-connector" d=3D"M8 16L8 0" style=3D"pointer-events: none; opacity=
+: 1;"></path><title>Double-Click to change a direction.</title></g><g class=
+=3D"simcir-device" transform=3D"translate(200 360)" simcir-transform-x=3D"2=
+00" simcir-transform-y=3D"360" simcir-transform-rotate=3D"undefined"><rect =
+class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"4" width=3D"16"=
+ height=3D"8" style=3D"opacity: 0;"></rect><g simcir-node-type=3D"in" class=
+=3D"  simcir-node simcir-node-type-in simcir-node-hot" transform=3D"transla=
+te(0 8)" simcir-transform-x=3D"0" simcir-transform-y=3D"8" simcir-transform=
+-rotate=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"=
+4"></circle></g><g simcir-node-type=3D"out" class=3D" simcir-node simcir-no=
+de-type-out simcir-node-hot" transform=3D"translate(16 8)" simcir-transform=
+-x=3D"16" simcir-transform-y=3D"8" simcir-transform-rotate=3D"undefined" st=
+yle=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text cl=
+ass=3D"simcir-device-label" text-anchor=3D"middle" x=3D"8" y=3D"24" style=
+=3D"font-size: 12px; display: none;">Joint</text><circle r=3D"2" class=3D" =
+ simcir-connector simcir-joint-point" cx=3D"16" cy=3D"8" style=3D"pointer-e=
+vents: none; opacity: 1; display: none;"></circle><path class=3D"  simcir-c=
+onnector" d=3D"M0 8L16 8" style=3D"pointer-events: none; opacity: 1;"></pat=
+h><title>Double-Click to change a direction.</title></g><g class=3D"simcir-=
+device" transform=3D"translate(576 168)" simcir-transform-x=3D"576" simcir-=
+transform-y=3D"168" simcir-transform-rotate=3D"undefined"><rect class=3D"si=
+mcir-device-body" rx=3D"2" ry=3D"2" x=3D"4" y=3D"0" width=3D"8" height=3D"1=
+6" style=3D"opacity: 0;"></rect><g simcir-node-type=3D"in" class=3D" simcir=
+-node simcir-node-type-in" transform=3D"translate(8 0)" simcir-transform-x=
+=3D"8" simcir-transform-y=3D"0" simcir-transform-rotate=3D"undefined" style=
+=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-n=
+ode-type=3D"out" class=3D"simcir-node simcir-node-type-out" transform=3D"tr=
+anslate(8 16)" simcir-transform-x=3D"8" simcir-transform-y=3D"16" simcir-tr=
+ansform-rotate=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0=
+" r=3D"4"></circle></g><text class=3D"simcir-device-label" text-anchor=3D"m=
+iddle" x=3D"8" y=3D"24" style=3D"font-size: 12px; display: none;">Joint</te=
+xt><circle r=3D"2" class=3D"  simcir-connector simcir-joint-point" cx=3D"8"=
+ cy=3D"16" style=3D"pointer-events: none; opacity: 1; display: none;"></cir=
+cle><path class=3D"  simcir-connector" d=3D"M8 0L8 16" style=3D"pointer-eve=
+nts: none; opacity: 1;"></path><title>Double-Click to change a direction.</=
+title></g><g class=3D"simcir-device" transform=3D"translate(568 104)" simci=
+r-transform-x=3D"568" simcir-transform-y=3D"104" simcir-transform-rotate=3D=
+"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=
+=3D"4" width=3D"16" height=3D"8" style=3D"opacity: 0;"></rect><g simcir-nod=
+e-type=3D"in" class=3D" simcir-node simcir-node-type-in" transform=3D"trans=
+late(0 8)" simcir-transform-x=3D"0" simcir-transform-y=3D"8" simcir-transfo=
+rm-rotate=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=
+=3D"4"></circle></g><g simcir-node-type=3D"out" class=3D"simcir-node simcir=
+-node-type-out" transform=3D"translate(16 8)" simcir-transform-x=3D"16" sim=
+cir-transform-y=3D"8" simcir-transform-rotate=3D"undefined" style=3D"opacit=
+y: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir=
+-device-label" text-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"font-size: =
+12px; display: none;">Joint</text><circle r=3D"2" class=3D"  simcir-connect=
+or simcir-joint-point" cx=3D"16" cy=3D"8" style=3D"pointer-events: none; op=
+acity: 1; display: none;"></circle><path class=3D"  simcir-connector" d=3D"=
+M0 8L16 8" style=3D"pointer-events: none; opacity: 1;"></path><title>Double=
+-Click to change a direction.</title></g><g class=3D"simcir-device" transfo=
+rm=3D"translate(512 168)" simcir-transform-x=3D"512" simcir-transform-y=3D"=
+168" simcir-transform-rotate=3D"undefined"><rect class=3D"simcir-device-bod=
+y" rx=3D"2" ry=3D"2" x=3D"4" y=3D"0" width=3D"8" height=3D"16" style=3D"opa=
+city: 0;"></rect><g simcir-node-type=3D"in" class=3D" simcir-node simcir-no=
+de-type-in" transform=3D"translate(8 0)" simcir-transform-x=3D"8" simcir-tr=
+ansform-y=3D"0" simcir-transform-rotate=3D"undefined" style=3D"opacity: 0;"=
+><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"out"=
+ class=3D"simcir-node simcir-node-type-out" transform=3D"translate(8 16)" s=
+imcir-transform-x=3D"8" simcir-transform-y=3D"16" simcir-transform-rotate=
+=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></ci=
+rcle></g><text class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"8"=
+ y=3D"24" style=3D"font-size: 12px; display: none;">Joint</text><circle r=
+=3D"2" class=3D"  simcir-connector simcir-joint-point" cx=3D"8" cy=3D"16" s=
+tyle=3D"pointer-events: none; opacity: 1; display: none;"></circle><path cl=
+ass=3D"  simcir-connector" d=3D"M8 0L8 16" style=3D"pointer-events: none; o=
+pacity: 1;"></path><title>Double-Click to change a direction.</title></g><g=
+ class=3D"simcir-device" transform=3D"translate(504 136)" simcir-transform-=
+x=3D"504" simcir-transform-y=3D"136" simcir-transform-rotate=3D"undefined">=
+<rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"4" width=
+=3D"16" height=3D"8" style=3D"opacity: 0;"></rect><g simcir-node-type=3D"in=
+" class=3D" simcir-node simcir-node-type-in" transform=3D"translate(0 8)" s=
+imcir-transform-x=3D"0" simcir-transform-y=3D"8" simcir-transform-rotate=3D=
+"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circl=
+e></g><g simcir-node-type=3D"out" class=3D"simcir-node simcir-node-type-out=
+" transform=3D"translate(16 8)" simcir-transform-x=3D"16" simcir-transform-=
+y=3D"8" simcir-transform-rotate=3D"undefined" style=3D"opacity: 0;"><circle=
+ cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-device-label"=
+ text-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"font-size: 12px; display:=
+ none;">Joint</text><circle r=3D"2" class=3D"  simcir-connector simcir-join=
+t-point" cx=3D"16" cy=3D"8" style=3D"pointer-events: none; opacity: 1; disp=
+lay: none;"></circle><path class=3D"  simcir-connector" d=3D"M0 8L16 8" sty=
+le=3D"pointer-events: none; opacity: 1;"></path><title>Double-Click to chan=
+ge a direction.</title></g><g class=3D"simcir-device" transform=3D"translat=
+e(416 144)" simcir-transform-x=3D"416" simcir-transform-y=3D"144" simcir-tr=
+ansform-rotate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=
+=3D"2" x=3D"4" y=3D"0" width=3D"8" height=3D"16" style=3D"opacity: 0;"></re=
+ct><g simcir-node-type=3D"in" class=3D"  simcir-node simcir-node-type-in" t=
+ransform=3D"translate(8 16)" simcir-transform-x=3D"8" simcir-transform-y=3D=
+"16" simcir-transform-rotate=3D"undefined" style=3D"opacity: 0;"><circle cx=
+=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"out" class=3D"s=
+imcir-node simcir-node-type-out" transform=3D"translate(8 0)" simcir-transf=
+orm-x=3D"8" simcir-transform-y=3D"0" simcir-transform-rotate=3D"undefined" =
+style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text =
+class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"8" y=3D"24" style=
+=3D"font-size: 12px; display: none;">Joint</text><circle r=3D"2" class=3D" =
+ simcir-connector simcir-joint-point" cx=3D"8" cy=3D"0" style=3D"pointer-ev=
+ents: none; opacity: 1; display: none;"></circle><path class=3D"  simcir-co=
+nnector" d=3D"M8 16L8 0" style=3D"pointer-events: none; opacity: 1;"></path=
+><title>Double-Click to change a direction.</title></g><g class=3D"simcir-d=
+evice" transform=3D"translate(352 104)" simcir-transform-x=3D"352" simcir-t=
+ransform-y=3D"104" simcir-transform-rotate=3D"undefined"><rect class=3D"sim=
+cir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"4" width=3D"16" height=3D"8=
+" style=3D"opacity: 0;"></rect><g simcir-node-type=3D"in" class=3D" simcir-=
+node simcir-node-type-in" transform=3D"translate(0 8)" simcir-transform-x=
+=3D"0" simcir-transform-y=3D"8" simcir-transform-rotate=3D"undefined" style=
+=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-n=
+ode-type=3D"out" class=3D"simcir-node simcir-node-type-out" transform=3D"tr=
+anslate(16 8)" simcir-transform-x=3D"16" simcir-transform-y=3D"8" simcir-tr=
+ansform-rotate=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0=
+" r=3D"4"></circle></g><text class=3D"simcir-device-label" text-anchor=3D"m=
+iddle" x=3D"8" y=3D"24" style=3D"font-size: 12px; display: none;">Joint</te=
+xt><circle r=3D"2" class=3D"  simcir-connector simcir-joint-point" cx=3D"16=
+" cy=3D"8" style=3D"pointer-events: none; opacity: 1;"></circle><path class=
+=3D"  simcir-connector" d=3D"M0 8L16 8" style=3D"pointer-events: none; opac=
+ity: 1;"></path><title>Double-Click to change a direction.</title></g><g cl=
+ass=3D"simcir-device" transform=3D"translate(352 328)" simcir-transform-x=
+=3D"352" simcir-transform-y=3D"328" simcir-transform-rotate=3D"undefined"><=
+rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"4" width=
+=3D"16" height=3D"8" style=3D"opacity: 0;"></rect><g simcir-node-type=3D"in=
+" class=3D" simcir-node simcir-node-type-in" transform=3D"translate(0 8)" s=
+imcir-transform-x=3D"0" simcir-transform-y=3D"8" simcir-transform-rotate=3D=
+"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circl=
+e></g><g simcir-node-type=3D"out" class=3D"simcir-node simcir-node-type-out=
+" transform=3D"translate(16 8)" simcir-transform-x=3D"16" simcir-transform-=
+y=3D"8" simcir-transform-rotate=3D"undefined" style=3D"opacity: 0;"><circle=
+ cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-device-label"=
+ text-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"font-size: 12px; display:=
+ none;">Joint</text><circle r=3D"2" class=3D"  simcir-connector simcir-join=
+t-point" cx=3D"16" cy=3D"8" style=3D"pointer-events: none; opacity: 1;"></c=
+ircle><path class=3D"  simcir-connector" d=3D"M0 8L16 8" style=3D"pointer-e=
+vents: none; opacity: 1;"></path><title>Double-Click to change a direction.=
+</title></g><g class=3D"simcir-device" transform=3D"translate(352 216)" sim=
+cir-transform-x=3D"352" simcir-transform-y=3D"216" simcir-transform-rotate=
+=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0"=
+ y=3D"4" width=3D"16" height=3D"8" style=3D"opacity: 0;"></rect><g simcir-n=
+ode-type=3D"in" class=3D" simcir-node simcir-node-type-in" transform=3D"tra=
+nslate(0 8)" simcir-transform-x=3D"0" simcir-transform-y=3D"8" simcir-trans=
+form-rotate=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=
+=3D"4"></circle></g><g simcir-node-type=3D"out" class=3D"simcir-node simcir=
+-node-type-out" transform=3D"translate(16 8)" simcir-transform-x=3D"16" sim=
+cir-transform-y=3D"8" simcir-transform-rotate=3D"undefined" style=3D"opacit=
+y: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir=
+-device-label" text-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"font-size: =
+12px; display: none;">Joint</text><circle r=3D"2" class=3D"  simcir-connect=
+or simcir-joint-point" cx=3D"16" cy=3D"8" style=3D"pointer-events: none; op=
+acity: 1;"></circle><path class=3D"  simcir-connector" d=3D"M0 8L16 8" styl=
+e=3D"pointer-events: none; opacity: 1;"></path><title>Double-Click to chang=
+e a direction.</title></g><g class=3D"simcir-device" transform=3D"translate=
+(240 112)" simcir-transform-x=3D"240" simcir-transform-y=3D"112" simcir-tra=
+nsform-rotate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=
+=3D"2" x=3D"4" y=3D"0" width=3D"8" height=3D"16" style=3D"opacity: 0;"></re=
+ct><g simcir-node-type=3D"in" class=3D" simcir-node simcir-node-type-in" tr=
+ansform=3D"translate(8 16)" simcir-transform-x=3D"8" simcir-transform-y=3D"=
+16" simcir-transform-rotate=3D"undefined" style=3D"opacity: 0;"><circle cx=
+=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"out" class=3D"s=
+imcir-node simcir-node-type-out" transform=3D"translate(8 0)" simcir-transf=
+orm-x=3D"8" simcir-transform-y=3D"0" simcir-transform-rotate=3D"undefined" =
+style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text =
+class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"8" y=3D"24" style=
+=3D"font-size: 12px; display: none;">Joint</text><circle r=3D"2" class=3D" =
+ simcir-connector simcir-joint-point" cx=3D"8" cy=3D"0" style=3D"pointer-ev=
+ents: none; opacity: 1; display: none;"></circle><path class=3D"  simcir-co=
+nnector" d=3D"M8 16L8 0" style=3D"pointer-events: none; opacity: 1;"></path=
+><title>Double-Click to change a direction.</title></g><g class=3D"simcir-d=
+evice" transform=3D"translate(240 224)" simcir-transform-x=3D"240" simcir-t=
+ransform-y=3D"224" simcir-transform-rotate=3D"undefined"><rect class=3D"sim=
+cir-device-body" rx=3D"2" ry=3D"2" x=3D"4" y=3D"0" width=3D"8" height=3D"16=
+" style=3D"opacity: 0;"></rect><g simcir-node-type=3D"in" class=3D" simcir-=
+node simcir-node-type-in" transform=3D"translate(8 16)" simcir-transform-x=
+=3D"8" simcir-transform-y=3D"16" simcir-transform-rotate=3D"undefined" styl=
+e=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-=
+node-type=3D"out" class=3D"simcir-node simcir-node-type-out" transform=3D"t=
+ranslate(8 0)" simcir-transform-x=3D"8" simcir-transform-y=3D"0" simcir-tra=
+nsform-rotate=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0"=
+ r=3D"4"></circle></g><text class=3D"simcir-device-label" text-anchor=3D"mi=
+ddle" x=3D"8" y=3D"24" style=3D"font-size: 12px; display: none;">Joint</tex=
+t><circle r=3D"2" class=3D"  simcir-connector simcir-joint-point" cx=3D"8" =
+cy=3D"0" style=3D"pointer-events: none; opacity: 1;"></circle><path class=
+=3D"  simcir-connector" d=3D"M8 16L8 0" style=3D"pointer-events: none; opac=
+ity: 1;"></path><title>Double-Click to change a direction.</title></g><g cl=
+ass=3D"simcir-device" transform=3D"translate(240 336)" simcir-transform-x=
+=3D"240" simcir-transform-y=3D"336" simcir-transform-rotate=3D"undefined"><=
+rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"4" y=3D"0" width=
+=3D"8" height=3D"16" style=3D"opacity: 0;"></rect><g simcir-node-type=3D"in=
+" class=3D" simcir-node simcir-node-type-in" transform=3D"translate(8 16)" =
+simcir-transform-x=3D"8" simcir-transform-y=3D"16" simcir-transform-rotate=
+=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></ci=
+rcle></g><g simcir-node-type=3D"out" class=3D"simcir-node simcir-node-type-=
+out" transform=3D"translate(8 0)" simcir-transform-x=3D"8" simcir-transform=
+-y=3D"0" simcir-transform-rotate=3D"undefined" style=3D"opacity: 0;"><circl=
+e cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-device-label=
+" text-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"font-size: 12px; display=
+: none;">Joint</text><circle r=3D"2" class=3D"  simcir-connector simcir-joi=
+nt-point" cx=3D"8" cy=3D"0" style=3D"pointer-events: none; opacity: 1;"></c=
+ircle><path class=3D"  simcir-connector" d=3D"M8 16L8 0" style=3D"pointer-e=
+vents: none; opacity: 1;"></path><title>Double-Click to change a direction.=
+</title></g><g class=3D"simcir-device" transform=3D"translate(248 192)" sim=
+cir-transform-x=3D"248" simcir-transform-y=3D"192" simcir-transform-rotate=
+=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"4"=
+ y=3D"0" width=3D"8" height=3D"16" style=3D"opacity: 0;"></rect><g simcir-n=
+ode-type=3D"in" class=3D" simcir-node simcir-node-type-in" transform=3D"tra=
+nslate(8 0)" simcir-transform-x=3D"8" simcir-transform-y=3D"0" simcir-trans=
+form-rotate=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=
+=3D"4"></circle></g><g simcir-node-type=3D"out" class=3D"simcir-node simcir=
+-node-type-out" transform=3D"translate(8 16)" simcir-transform-x=3D"8" simc=
+ir-transform-y=3D"16" simcir-transform-rotate=3D"undefined" style=3D"opacit=
+y: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir=
+-device-label" text-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"font-size: =
+12px; display: none;">Joint</text><circle r=3D"2" class=3D"  simcir-connect=
+or simcir-joint-point" cx=3D"8" cy=3D"16" style=3D"pointer-events: none; op=
+acity: 1; display: none;"></circle><path class=3D"  simcir-connector" d=3D"=
+M8 0L8 16" style=3D"pointer-events: none; opacity: 1;"></path><title>Double=
+-Click to change a direction.</title></g><g class=3D"simcir-device" transfo=
+rm=3D"translate(256 168)" simcir-transform-x=3D"256" simcir-transform-y=3D"=
+168" simcir-transform-rotate=3D"undefined"><rect class=3D"simcir-device-bod=
+y" rx=3D"2" ry=3D"2" x=3D"0" y=3D"4" width=3D"16" height=3D"8" style=3D"opa=
+city: 0;"></rect><g simcir-node-type=3D"in" class=3D" simcir-node simcir-no=
+de-type-in" transform=3D"translate(16 8)" simcir-transform-x=3D"16" simcir-=
+transform-y=3D"8" simcir-transform-rotate=3D"undefined" style=3D"opacity: 0=
+;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"ou=
+t" class=3D"simcir-node simcir-node-type-out" transform=3D"translate(0 8)" =
+simcir-transform-x=3D"0" simcir-transform-y=3D"8" simcir-transform-rotate=
+=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></ci=
+rcle></g><text class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"8"=
+ y=3D"24" style=3D"font-size: 12px; display: none;">Joint</text><circle r=
+=3D"2" class=3D"  simcir-connector simcir-joint-point" cx=3D"0" cy=3D"8" st=
+yle=3D"pointer-events: none; opacity: 1; display: none;"></circle><path cla=
+ss=3D"  simcir-connector" d=3D"M16 8L0 8" style=3D"pointer-events: none; op=
+acity: 1;"></path><title>Double-Click to change a direction.</title></g><g =
+class=3D"simcir-device" transform=3D"translate(472 168)" simcir-transform-x=
+=3D"472" simcir-transform-y=3D"168" simcir-transform-rotate=3D"undefined"><=
+rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0" width=
+=3D"32" height=3D"32"></rect><g simcir-node-type=3D"in" class=3D" simcir-no=
+de simcir-node-type-in" transform=3D"translate(0 16)" simcir-transform-x=3D=
+"0" simcir-transform-y=3D"16" simcir-transform-rotate=3D"undefined"><circle=
+ cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-device-label"=
+ text-anchor=3D"middle" x=3D"16" y=3D"44" style=3D"font-size: 12px;">Q2</te=
+xt><circle cx=3D"16" cy=3D"16" r=3D"8" stroke=3D"none" fill=3D"#330000"></c=
+ircle><circle cx=3D"16" cy=3D"16" r=3D"6.4" stroke=3D"none" fill=3D"#3f0000=
+"></circle></g><g class=3D"simcir-device" transform=3D"translate(536 168)" =
+simcir-transform-x=3D"536" simcir-transform-y=3D"168" simcir-transform-rota=
+te=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"=
+0" y=3D"0" width=3D"32" height=3D"32"></rect><g simcir-node-type=3D"in" cla=
+ss=3D" simcir-node simcir-node-type-in" transform=3D"translate(0 16)" simci=
+r-transform-x=3D"0" simcir-transform-y=3D"16" simcir-transform-rotate=3D"un=
+defined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simc=
+ir-device-label" text-anchor=3D"middle" x=3D"16" y=3D"44" style=3D"font-siz=
+e: 12px;">Q1</text><circle cx=3D"16" cy=3D"16" r=3D"8" stroke=3D"none" fill=
+=3D"#330000"></circle><circle cx=3D"16" cy=3D"16" r=3D"6.4" stroke=3D"none"=
+ fill=3D"#3f0000"></circle></g><g class=3D"simcir-device" transform=3D"tran=
+slate(600 168)" simcir-transform-x=3D"600" simcir-transform-y=3D"168" simci=
+r-transform-rotate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2=
+" ry=3D"2" x=3D"0" y=3D"0" width=3D"32" height=3D"32"></rect><g simcir-node=
+-type=3D"in" class=3D" simcir-node simcir-node-type-in" transform=3D"transl=
+ate(0 16)" simcir-transform-x=3D"0" simcir-transform-y=3D"16" simcir-transf=
+orm-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><te=
+xt class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"16" y=3D"44" s=
+tyle=3D"font-size: 12px;">Q0</text><circle cx=3D"16" cy=3D"16" r=3D"8" stro=
+ke=3D"none" fill=3D"#330000"></circle><circle cx=3D"16" cy=3D"16" r=3D"6.4"=
+ stroke=3D"none" fill=3D"#3f0000"></circle></g><g class=3D"simcir-device" t=
+ransform=3D"translate(192 312)" simcir-transform-x=3D"192" simcir-transform=
+-y=3D"312" simcir-transform-rotate=3D"undefined"><rect class=3D"simcir-devi=
+ce-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0" width=3D"32" height=3D"32"></rec=
+t><g simcir-node-type=3D"in" class=3D"  simcir-node simcir-node-type-in sim=
+cir-node-hot" transform=3D"translate(0 16)" simcir-transform-x=3D"0" simcir=
+-transform-y=3D"16" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" =
+cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-device-label" text-anch=
+or=3D"middle" x=3D"16" y=3D"44" style=3D"font-size: 12px;">LED(G)</text><ci=
+rcle cx=3D"16" cy=3D"16" r=3D"8" stroke=3D"none" fill=3D"#00cc00"></circle>=
+<circle cx=3D"16" cy=3D"16" r=3D"6.4" stroke=3D"none" fill=3D"#00ff00"></ci=
+rcle></g><g class=3D"simcir-device" transform=3D"translate(248 304)" simcir=
+-transform-x=3D"248" simcir-transform-y=3D"304" simcir-transform-rotate=3D"=
+undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"4" y=
+=3D"0" width=3D"8" height=3D"16" style=3D"opacity: 0;"></rect><g simcir-nod=
+e-type=3D"in" class=3D"  simcir-node simcir-node-type-in" transform=3D"tran=
+slate(8 0)" simcir-transform-x=3D"8" simcir-transform-y=3D"0" simcir-transf=
+orm-rotate=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=
+=3D"4"></circle></g><g simcir-node-type=3D"out" class=3D"simcir-node simcir=
+-node-type-out" transform=3D"translate(8 16)" simcir-transform-x=3D"8" simc=
+ir-transform-y=3D"16" simcir-transform-rotate=3D"undefined" style=3D"opacit=
+y: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir=
+-device-label" text-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"font-size: =
+12px; display: none;">Joint</text><circle r=3D"2" class=3D"  simcir-connect=
+or simcir-joint-point" cx=3D"8" cy=3D"16" style=3D"pointer-events: none; op=
+acity: 1; display: none;"></circle><path class=3D"  simcir-connector" d=3D"=
+M8 0L8 16" style=3D"pointer-events: none; opacity: 1;"></path><title>Double=
+-Click to change a direction.</title></g><g class=3D"simcir-device" transfo=
+rm=3D"translate(456 184)" simcir-transform-x=3D"456" simcir-transform-y=3D"=
+184" simcir-transform-rotate=3D"undefined"><rect class=3D"simcir-device-bod=
+y" rx=3D"2" ry=3D"2" x=3D"4" y=3D"0" width=3D"8" height=3D"16" style=3D"opa=
+city: 0;"></rect><g simcir-node-type=3D"in" class=3D" simcir-node simcir-no=
+de-type-in" transform=3D"translate(8 16)" simcir-transform-x=3D"8" simcir-t=
+ransform-y=3D"16" simcir-transform-rotate=3D"undefined" style=3D"opacity: 0=
+;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"ou=
+t" class=3D"simcir-node simcir-node-type-out" transform=3D"translate(8 0)" =
+simcir-transform-x=3D"8" simcir-transform-y=3D"0" simcir-transform-rotate=
+=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></ci=
+rcle></g><text class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"8"=
+ y=3D"24" style=3D"font-size: 12px; display: none;">Joint</text><circle r=
+=3D"2" class=3D"  simcir-connector simcir-joint-point" cx=3D"8" cy=3D"0" st=
+yle=3D"pointer-events: none; opacity: 1; display: none;"></circle><path cla=
+ss=3D"  simcir-connector" d=3D"M8 16L8 0" style=3D"pointer-events: none; op=
+acity: 1;"></path><title>Double-Click to change a direction.</title></g><g =
+class=3D"simcir-device" transform=3D"translate(448 328)" simcir-transform-x=
+=3D"448" simcir-transform-y=3D"328" simcir-transform-rotate=3D"undefined"><=
+rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"4" width=
+=3D"16" height=3D"8" style=3D"opacity: 0;"></rect><g simcir-node-type=3D"in=
+" class=3D" simcir-node simcir-node-type-in" transform=3D"translate(0 8)" s=
+imcir-transform-x=3D"0" simcir-transform-y=3D"8" simcir-transform-rotate=3D=
+"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circl=
+e></g><g simcir-node-type=3D"out" class=3D"simcir-node simcir-node-type-out=
+" transform=3D"translate(16 8)" simcir-transform-x=3D"16" simcir-transform-=
+y=3D"8" simcir-transform-rotate=3D"undefined" style=3D"opacity: 0;"><circle=
+ cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-device-label"=
+ text-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"font-size: 12px; display:=
+ none;">Joint</text><circle r=3D"2" class=3D"  simcir-connector simcir-join=
+t-point" cx=3D"16" cy=3D"8" style=3D"pointer-events: none; opacity: 1; disp=
+lay: none;"></circle><path class=3D"  simcir-connector" d=3D"M0 8L16 8" sty=
+le=3D"pointer-events: none; opacity: 1;"></path><title>Double-Click to chan=
+ge a direction.</title></g><g class=3D"simcir-device" transform=3D"translat=
+e(432 296)" simcir-transform-x=3D"432" simcir-transform-y=3D"296" simcir-tr=
+ansform-rotate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=
+=3D"2" x=3D"0" y=3D"4" width=3D"16" height=3D"8" style=3D"opacity: 0;"></re=
+ct><g simcir-node-type=3D"in" class=3D" simcir-node simcir-node-type-in" tr=
+ansform=3D"translate(16 8)" simcir-transform-x=3D"16" simcir-transform-y=3D=
+"8" simcir-transform-rotate=3D"undefined" style=3D"opacity: 0;"><circle cx=
+=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"out" class=3D"s=
+imcir-node simcir-node-type-out" transform=3D"translate(0 8)" simcir-transf=
+orm-x=3D"0" simcir-transform-y=3D"8" simcir-transform-rotate=3D"undefined" =
+style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text =
+class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"8" y=3D"24" style=
+=3D"font-size: 12px; display: none;">Joint</text><circle r=3D"2" class=3D" =
+ simcir-connector simcir-joint-point" cx=3D"0" cy=3D"8" style=3D"pointer-ev=
+ents: none; opacity: 1; display: none;"></circle><path class=3D"  simcir-co=
+nnector" d=3D"M16 8L0 8" style=3D"pointer-events: none; opacity: 1;"></path=
+><title>Double-Click to change a direction.</title></g><g class=3D"simcir-d=
+evice" transform=3D"translate(400 256)" simcir-transform-x=3D"400" simcir-t=
+ransform-y=3D"256" simcir-transform-rotate=3D"undefined"><rect class=3D"sim=
+cir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0" width=3D"32" height=3D"3=
+2"></rect><g simcir-node-type=3D"in" class=3D" simcir-node simcir-node-type=
+-in" transform=3D"translate(0 8)" simcir-transform-x=3D"0" simcir-transform=
+-y=3D"8" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=
+=3D"4"></circle></g><g simcir-node-type=3D"in" class=3D" simcir-node simcir=
+-node-type-in" transform=3D"translate(0 24)" simcir-transform-x=3D"0" simci=
+r-transform-y=3D"24" simcir-transform-rotate=3D"undefined"><circle cx=3D"0"=
+ cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"out" class=3D"simcir-=
+node simcir-node-type-out" transform=3D"translate(32 16)" simcir-transform-=
+x=3D"32" simcir-transform-y=3D"16" simcir-transform-rotate=3D"undefined"><c=
+ircle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-device-l=
+abel" text-anchor=3D"middle" x=3D"16" y=3D"44" style=3D"font-size: 12px;">O=
+R</text><path d=3D" M 8 8 Q 20.8 8 24 16 Q 20.8 24 8 24 Q 11.2 24 11.2 16 Q=
+ 11.2 8 8 8 Z" class=3D"simcir-basicset-symbol"></path></g><g class=3D"simc=
+ir-device" transform=3D"translate(408 216)" simcir-transform-x=3D"408" simc=
+ir-transform-y=3D"216" simcir-transform-rotate=3D"undefined"><rect class=3D=
+"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"4" width=3D"16" height=
+=3D"8" style=3D"opacity: 0;"></rect><g simcir-node-type=3D"in" class=3D" si=
+mcir-node simcir-node-type-in" transform=3D"translate(0 8)" simcir-transfor=
+m-x=3D"0" simcir-transform-y=3D"8" simcir-transform-rotate=3D"undefined" st=
+yle=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simci=
+r-node-type=3D"out" class=3D"simcir-node simcir-node-type-out" transform=3D=
+"translate(16 8)" simcir-transform-x=3D"16" simcir-transform-y=3D"8" simcir=
+-transform-rotate=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=
+=3D"0" r=3D"4"></circle></g><text class=3D"simcir-device-label" text-anchor=
+=3D"middle" x=3D"8" y=3D"24" style=3D"font-size: 12px; display: none;">Join=
+t</text><circle r=3D"2" class=3D"  simcir-connector simcir-joint-point" cx=
+=3D"16" cy=3D"8" style=3D"pointer-events: none; opacity: 1; display: none;"=
+></circle><path class=3D"  simcir-connector" d=3D"M0 8L16 8" style=3D"point=
+er-events: none; opacity: 1;"></path><title>Double-Click to change a direct=
+ion.</title></g><g class=3D"simcir-device" transform=3D"translate(368 272)"=
+ simcir-transform-x=3D"368" simcir-transform-y=3D"272" simcir-transform-rot=
+ate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D=
+"0" y=3D"4" width=3D"16" height=3D"8" style=3D"opacity: 0;"></rect><g simci=
+r-node-type=3D"in" class=3D" simcir-node simcir-node-type-in" transform=3D"=
+translate(0 8)" simcir-transform-x=3D"0" simcir-transform-y=3D"8" simcir-tr=
+ansform-rotate=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0=
+" r=3D"4"></circle></g><g simcir-node-type=3D"out" class=3D"simcir-node sim=
+cir-node-type-out" transform=3D"translate(16 8)" simcir-transform-x=3D"16" =
+simcir-transform-y=3D"8" simcir-transform-rotate=3D"undefined" style=3D"opa=
+city: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"sim=
+cir-device-label" text-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"font-siz=
+e: 12px; display: none;">Joint</text><circle r=3D"2" class=3D"  simcir-conn=
+ector simcir-joint-point" cx=3D"16" cy=3D"8" style=3D"pointer-events: none;=
+ opacity: 1; display: none;"></circle><path class=3D"  simcir-connector" d=
+=3D"M0 8L16 8" style=3D"pointer-events: none; opacity: 1;"></path><title>Do=
+uble-Click to change a direction.</title></g><g class=3D"simcir-device" tra=
+nsform=3D"translate(368 256)" simcir-transform-x=3D"368" simcir-transform-y=
+=3D"256" simcir-transform-rotate=3D"undefined"><rect class=3D"simcir-device=
+-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"4" width=3D"16" height=3D"8" style=3D=
+"opacity: 0;"></rect><g simcir-node-type=3D"in" class=3D" simcir-node simci=
+r-node-type-in" transform=3D"translate(0 8)" simcir-transform-x=3D"0" simci=
+r-transform-y=3D"8" simcir-transform-rotate=3D"undefined" style=3D"opacity:=
+ 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"=
+out" class=3D"simcir-node simcir-node-type-out" transform=3D"translate(16 8=
+)" simcir-transform-x=3D"16" simcir-transform-y=3D"8" simcir-transform-rota=
+te=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></=
+circle></g><text class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"=
+8" y=3D"24" style=3D"font-size: 12px; display: none;">Joint</text><circle r=
+=3D"2" class=3D"  simcir-connector simcir-joint-point" cx=3D"16" cy=3D"8" s=
+tyle=3D"pointer-events: none; opacity: 1; display: none;"></circle><path cl=
+ass=3D"  simcir-connector" d=3D"M0 8L16 8" style=3D"pointer-events: none; o=
+pacity: 1;"></path><title>Double-Click to change a direction.</title></g><g=
+ class=3D"simcir-device" transform=3D"translate(440 272)" simcir-transform-=
+x=3D"440" simcir-transform-y=3D"272" simcir-transform-rotate=3D"undefined">=
+<rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"4" y=3D"0" width=
+=3D"8" height=3D"16" style=3D"opacity: 0;"></rect><g simcir-node-type=3D"in=
+" class=3D" simcir-node simcir-node-type-in" transform=3D"translate(8 0)" s=
+imcir-transform-x=3D"8" simcir-transform-y=3D"0" simcir-transform-rotate=3D=
+"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circl=
+e></g><g simcir-node-type=3D"out" class=3D"simcir-node simcir-node-type-out=
+" transform=3D"translate(8 16)" simcir-transform-x=3D"8" simcir-transform-y=
+=3D"16" simcir-transform-rotate=3D"undefined" style=3D"opacity: 0;"><circle=
+ cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-device-label"=
+ text-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"font-size: 12px; display:=
+ none;">Joint</text><circle r=3D"2" class=3D"  simcir-connector simcir-join=
+t-point" cx=3D"8" cy=3D"16" style=3D"pointer-events: none; opacity: 1; disp=
+lay: none;"></circle><path class=3D"  simcir-connector" d=3D"M8 0L8 16" sty=
+le=3D"pointer-events: none; opacity: 1;"></path><title>Double-Click to chan=
+ge a direction.</title></g><g class=3D"simcir-device" transform=3D"translat=
+e(224 432)" simcir-transform-x=3D"224" simcir-transform-y=3D"432" simcir-tr=
+ansform-rotate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=
+=3D"2" x=3D"0" y=3D"4" width=3D"16" height=3D"8" style=3D"opacity: 0;"></re=
+ct><g simcir-node-type=3D"in" class=3D"  simcir-node simcir-node-type-in si=
+mcir-node-hot" transform=3D"translate(0 8)" simcir-transform-x=3D"0" simcir=
+-transform-y=3D"8" simcir-transform-rotate=3D"undefined" style=3D"opacity: =
+0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"o=
+ut" class=3D" simcir-node simcir-node-type-out simcir-node-hot" transform=
+=3D"translate(16 8)" simcir-transform-x=3D"16" simcir-transform-y=3D"8" sim=
+cir-transform-rotate=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" c=
+y=3D"0" r=3D"4"></circle></g><text class=3D"simcir-device-label" text-ancho=
+r=3D"middle" x=3D"8" y=3D"24" style=3D"font-size: 12px; display: none;">Joi=
+nt</text><circle r=3D"2" class=3D"  simcir-connector simcir-joint-point" cx=
+=3D"16" cy=3D"8" style=3D"pointer-events: none; opacity: 1; display: none;"=
+></circle><path class=3D"  simcir-connector" d=3D"M0 8L16 8" style=3D"point=
+er-events: none; opacity: 1;"></path><title>Double-Click to change a direct=
+ion.</title></g><g class=3D"simcir-device" transform=3D"translate(192 384)"=
+ simcir-transform-x=3D"192" simcir-transform-y=3D"384" simcir-transform-rot=
+ate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D=
+"0" y=3D"0" width=3D"32" height=3D"32"></rect><g simcir-node-type=3D"in" cl=
+ass=3D"  simcir-node simcir-node-type-in simcir-node-hot" transform=3D"tran=
+slate(0 16)" simcir-transform-x=3D"0" simcir-transform-y=3D"16" simcir-tran=
+sform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><=
+text class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"16" y=3D"44"=
+ style=3D"font-size: 12px;">LED(G)</text><circle cx=3D"16" cy=3D"16" r=3D"8=
+" stroke=3D"none" fill=3D"#00cc00"></circle><circle cx=3D"16" cy=3D"16" r=
+=3D"6.4" stroke=3D"none" fill=3D"#00ff00"></circle></g><g class=3D" simcir-=
+device simcir-basicset-dc" transform=3D"translate(16 352)" simcir-transform=
+-x=3D"16" simcir-transform-y=3D"352" simcir-transform-rotate=3D"undefined">=
+<rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0" width=
+=3D"32" height=3D"32"></rect><g simcir-node-type=3D"out" class=3D" simcir-n=
+ode simcir-node-type-out simcir-node-hot" transform=3D"translate(32 16)" si=
+mcir-transform-x=3D"32" simcir-transform-y=3D"16" simcir-transform-rotate=
+=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=
+=3D"simcir-device-label" text-anchor=3D"middle" x=3D"16" y=3D"44" style=3D"=
+font-size: 12px;">DC</text></g><g class=3D" simcir-device simcir-basicset-s=
+witch" transform=3D"translate(128 352)" simcir-transform-x=3D"128" simcir-t=
+ransform-y=3D"352" simcir-transform-rotate=3D"undefined"><rect class=3D"sim=
+cir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0" width=3D"32" height=3D"3=
+2"></rect><g simcir-node-type=3D"in" class=3D"  simcir-node simcir-node-typ=
+e-in simcir-node-hot" transform=3D"translate(0 16)" simcir-transform-x=3D"0=
+" simcir-transform-y=3D"16" simcir-transform-rotate=3D"undefined"><circle c=
+x=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"out" class=3D"=
+  simcir-node simcir-node-type-out simcir-node-hot" transform=3D"translate(=
+32 16)" simcir-transform-x=3D"32" simcir-transform-y=3D"16" simcir-transfor=
+m-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text=
+ class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"16" y=3D"44" sty=
+le=3D"font-size: 12px;">PushToSet</text><rect x=3D"8" y=3D"8" width=3D"16" =
+height=3D"16" rx=3D"2" ry=3D"2" class=3D"  simcir-basicset-switch-button" s=
+tyle=3D"pointer-events: visiblepainted;"></rect></g><g class=3D"simcir-devi=
+ce" transform=3D"translate(112 48)" simcir-transform-x=3D"112" simcir-trans=
+form-y=3D"48" simcir-transform-rotate=3D"undefined"><rect class=3D"simcir-d=
+evice-body" rx=3D"2" ry=3D"2" x=3D"4" y=3D"0" width=3D"8" height=3D"16" sty=
+le=3D"opacity: 0;"></rect><g simcir-node-type=3D"in" class=3D" simcir-node =
+simcir-node-type-in" transform=3D"translate(8 0)" simcir-transform-x=3D"8" =
+simcir-transform-y=3D"0" simcir-transform-rotate=3D"undefined" style=3D"opa=
+city: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-typ=
+e=3D"out" class=3D"simcir-node simcir-node-type-out" transform=3D"translate=
+(8 16)" simcir-transform-x=3D"8" simcir-transform-y=3D"16" simcir-transform=
+-rotate=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"=
+4"></circle></g><text class=3D"simcir-device-label" text-anchor=3D"middle" =
+x=3D"8" y=3D"24" style=3D"font-size: 12px; display: none;">Joint</text><cir=
+cle r=3D"2" class=3D"  simcir-connector simcir-joint-point" cx=3D"8" cy=3D"=
+16" style=3D"pointer-events: none; opacity: 1; display: none;"></circle><pa=
+th class=3D"  simcir-connector" d=3D"M8 0L8 16" style=3D"pointer-events: no=
+ne; opacity: 1;"></path><title>Double-Click to change a direction.</title><=
+/g><g class=3D"simcir-device" transform=3D"translate(360 48)" simcir-transf=
+orm-x=3D"360" simcir-transform-y=3D"48" simcir-transform-rotate=3D"undefine=
+d"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"4" y=3D"0" wid=
+th=3D"8" height=3D"16" style=3D"opacity: 0;"></rect><g simcir-node-type=3D"=
+in" class=3D" simcir-node simcir-node-type-in" transform=3D"translate(8 16)=
+" simcir-transform-x=3D"8" simcir-transform-y=3D"16" simcir-transform-rotat=
+e=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></c=
+ircle></g><g simcir-node-type=3D"out" class=3D"  simcir-node simcir-node-ty=
+pe-out" transform=3D"translate(8 0)" simcir-transform-x=3D"8" simcir-transf=
+orm-y=3D"0" simcir-transform-rotate=3D"undefined" style=3D"opacity: 0;"><ci=
+rcle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-device-la=
+bel" text-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"font-size: 12px; disp=
+lay: none;">Joint</text><circle r=3D"2" class=3D"  simcir-connector simcir-=
+joint-point" cx=3D"8" cy=3D"0" style=3D"pointer-events: none; opacity: 1; d=
+isplay: none;"></circle><path class=3D"  simcir-connector" d=3D"M8 16L8 0" =
+style=3D"pointer-events: none; opacity: 1;"></path><title>Double-Click to c=
+hange a direction.</title></g><g class=3D"simcir-device" transform=3D"trans=
+late(200 64)" simcir-transform-x=3D"200" simcir-transform-y=3D"64" simcir-t=
+ransform-rotate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" r=
+y=3D"2" x=3D"0" y=3D"0" width=3D"32" height=3D"32"></rect><g simcir-node-ty=
+pe=3D"in" class=3D"  simcir-node simcir-node-type-in simcir-node-hot" trans=
+form=3D"translate(0 8)" simcir-transform-x=3D"0" simcir-transform-y=3D"8" s=
+imcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></ci=
+rcle></g><g simcir-node-type=3D"in" class=3D" simcir-node simcir-node-type-=
+in" transform=3D"translate(0 24)" simcir-transform-x=3D"0" simcir-transform=
+-y=3D"24" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=
+=3D"4"></circle></g><g simcir-node-type=3D"out" class=3D" simcir-node simci=
+r-node-type-out simcir-node-hot" transform=3D"translate(32 16)" simcir-tran=
+sform-x=3D"32" simcir-transform-y=3D"16" simcir-transform-rotate=3D"undefin=
+ed"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-de=
+vice-label" text-anchor=3D"middle" x=3D"16" y=3D"44" style=3D"font-size: 12=
+px;">OR</text><path d=3D" M 8 8 Q 20.8 8 24 16 Q 20.8 24 8 24 Q 11.2 24 11.=
+2 16 Q 11.2 8 8 8 Z" class=3D"simcir-basicset-symbol"></path></g><g class=
+=3D"simcir-device" transform=3D"translate(248 80)" simcir-transform-x=3D"24=
+8" simcir-transform-y=3D"80" simcir-transform-rotate=3D"undefined"><rect cl=
+ass=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"4" y=3D"0" width=3D"8" he=
+ight=3D"16" style=3D"opacity: 0;"></rect><g simcir-node-type=3D"in" class=
+=3D"  simcir-node simcir-node-type-in simcir-node-hot" transform=3D"transla=
+te(8 0)" simcir-transform-x=3D"8" simcir-transform-y=3D"0" simcir-transform=
+-rotate=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"=
+4"></circle></g><g simcir-node-type=3D"out" class=3D" simcir-node simcir-no=
+de-type-out simcir-node-hot" transform=3D"translate(8 16)" simcir-transform=
+-x=3D"8" simcir-transform-y=3D"16" simcir-transform-rotate=3D"undefined" st=
+yle=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text cl=
+ass=3D"simcir-device-label" text-anchor=3D"middle" x=3D"8" y=3D"24" style=
+=3D"font-size: 12px; display: none;">Joint</text><circle r=3D"2" class=3D" =
+ simcir-connector simcir-joint-point" cx=3D"8" cy=3D"16" style=3D"pointer-e=
+vents: none; opacity: 1; display: none;"></circle><path class=3D"  simcir-c=
+onnector" d=3D"M8 0L8 16" style=3D"pointer-events: none; opacity: 1;"></pat=
+h><title>Double-Click to change a direction.</title></g><g class=3D"simcir-=
+device" transform=3D"translate(368 344)" simcir-transform-x=3D"368" simcir-=
+transform-y=3D"344" simcir-transform-rotate=3D"undefined"><rect class=3D"si=
+mcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"4" width=3D"16" height=3D"=
+8" style=3D"opacity: 0;"></rect><g simcir-node-type=3D"in" class=3D"  simci=
+r-node simcir-node-type-in simcir-node-hot" transform=3D"translate(0 8)" si=
+mcir-transform-x=3D"0" simcir-transform-y=3D"8" simcir-transform-rotate=3D"=
+undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle=
+></g><g simcir-node-type=3D"out" class=3D" simcir-node simcir-node-type-out=
+ simcir-node-hot" transform=3D"translate(16 8)" simcir-transform-x=3D"16" s=
+imcir-transform-y=3D"8" simcir-transform-rotate=3D"undefined" style=3D"opac=
+ity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simc=
+ir-device-label" text-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"font-size=
+: 12px; display: none;">Joint</text><circle r=3D"2" class=3D"  simcir-conne=
+ctor simcir-joint-point" cx=3D"16" cy=3D"8" style=3D"pointer-events: none; =
+opacity: 1; display: none;"></circle><path class=3D"  simcir-connector" d=
+=3D"M0 8L16 8" style=3D"pointer-events: none; opacity: 1;"></path><title>Do=
+uble-Click to change a direction.</title></g><g class=3D"simcir-device" tra=
+nsform=3D"translate(368 24)" simcir-transform-x=3D"368" simcir-transform-y=
+=3D"24" simcir-transform-rotate=3D"undefined"><rect class=3D"simcir-device-=
+body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"4" width=3D"16" height=3D"8" style=3D"=
+opacity: 0;"></rect><g simcir-node-type=3D"in" class=3D"  simcir-node simci=
+r-node-type-in simcir-node-hot" transform=3D"translate(16 8)" simcir-transf=
+orm-x=3D"16" simcir-transform-y=3D"8" simcir-transform-rotate=3D"undefined"=
+ style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g si=
+mcir-node-type=3D"out" class=3D" simcir-node simcir-node-type-out simcir-no=
+de-hot" transform=3D"translate(0 8)" simcir-transform-x=3D"0" simcir-transf=
+orm-y=3D"8" simcir-transform-rotate=3D"undefined" style=3D"opacity: 0;"><ci=
+rcle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-device-la=
+bel" text-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"font-size: 12px; disp=
+lay: none;">Joint</text><circle r=3D"2" class=3D"  simcir-connector simcir-=
+joint-point" cx=3D"0" cy=3D"8" style=3D"pointer-events: none; opacity: 1; d=
+isplay: none;"></circle><path class=3D"  simcir-connector" d=3D"M16 8L0 8" =
+style=3D"pointer-events: none; opacity: 1;"></path><title>Double-Click to c=
+hange a direction.</title></g><g class=3D"simcir-device" transform=3D"trans=
+late(144 72)" simcir-transform-x=3D"144" simcir-transform-y=3D"72" simcir-t=
+ransform-rotate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" r=
+y=3D"2" x=3D"0" y=3D"0" width=3D"32" height=3D"32"></rect><g simcir-node-ty=
+pe=3D"in" class=3D" simcir-node simcir-node-type-in" transform=3D"translate=
+(0 8)" simcir-transform-x=3D"0" simcir-transform-y=3D"8" simcir-transform-r=
+otate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simci=
+r-node-type=3D"in" class=3D"  simcir-node simcir-node-type-in simcir-node-h=
+ot" transform=3D"translate(0 24)" simcir-transform-x=3D"0" simcir-transform=
+-y=3D"24" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=
+=3D"4"></circle></g><g simcir-node-type=3D"out" class=3D"simcir-node simcir=
+-node-type-out" transform=3D"translate(32 16)" simcir-transform-x=3D"32" si=
+mcir-transform-y=3D"16" simcir-transform-rotate=3D"undefined"><circle cx=3D=
+"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-device-label" text-=
+anchor=3D"middle" x=3D"16" y=3D"44" style=3D"font-size: 12px;">AND</text><p=
+ath d=3D" M 8 8 Q 24 8 24 16 Q 24 24 8 24 L 8 8 Z" class=3D"simcir-basicset=
+-symbol"></path></g><g class=3D"simcir-device" transform=3D"translate(120 7=
+2)" simcir-transform-x=3D"120" simcir-transform-y=3D"72" simcir-transform-r=
+otate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=
+=3D"0" y=3D"4" width=3D"16" height=3D"8" style=3D"opacity: 0;"></rect><g si=
+mcir-node-type=3D"in" class=3D" simcir-node simcir-node-type-in" transform=
+=3D"translate(0 8)" simcir-transform-x=3D"0" simcir-transform-y=3D"8" simci=
+r-transform-rotate=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=
+=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"out" class=3D"simcir-nod=
+e simcir-node-type-out" transform=3D"translate(16 8)" simcir-transform-x=3D=
+"16" simcir-transform-y=3D"8" simcir-transform-rotate=3D"undefined" style=
+=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=
+=3D"simcir-device-label" text-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"f=
+ont-size: 12px; display: none;">Joint</text><circle r=3D"2" class=3D"  simc=
+ir-connector simcir-joint-point" cx=3D"16" cy=3D"8" style=3D"pointer-events=
+: none; opacity: 1; display: none;"></circle><path class=3D"  simcir-connec=
+tor" d=3D"M0 8L16 8" style=3D"pointer-events: none; opacity: 1;"></path><ti=
+tle>Double-Click to change a direction.</title></g><g class=3D"simcir-devic=
+e" transform=3D"translate(176 56)" simcir-transform-x=3D"176" simcir-transf=
+orm-y=3D"56" simcir-transform-rotate=3D"undefined"><rect class=3D"simcir-de=
+vice-body" rx=3D"2" ry=3D"2" x=3D"4" y=3D"0" width=3D"8" height=3D"16" styl=
+e=3D"opacity: 0;"></rect><g simcir-node-type=3D"in" class=3D"  simcir-node =
+simcir-node-type-in simcir-node-hot" transform=3D"translate(8 0)" simcir-tr=
+ansform-x=3D"8" simcir-transform-y=3D"0" simcir-transform-rotate=3D"undefin=
+ed" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g=
+ simcir-node-type=3D"out" class=3D" simcir-node simcir-node-type-out simcir=
+-node-hot" transform=3D"translate(8 16)" simcir-transform-x=3D"8" simcir-tr=
+ansform-y=3D"16" simcir-transform-rotate=3D"undefined" style=3D"opacity: 0;=
+"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-devi=
+ce-label" text-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"font-size: 12px;=
+ display: none;">Joint</text><circle r=3D"2" class=3D"  simcir-connector si=
+mcir-joint-point" cx=3D"8" cy=3D"16" style=3D"pointer-events: none; opacity=
+: 1; display: none;"></circle><path class=3D"  simcir-connector" d=3D"M8 0L=
+8 16" style=3D"pointer-events: none; opacity: 1;"></path><title>Double-Clic=
+k to change a direction.</title></g><g class=3D"simcir-device" transform=3D=
+"translate(184 24)" simcir-transform-x=3D"184" simcir-transform-y=3D"24" si=
+mcir-transform-rotate=3D"undefined"><rect class=3D"simcir-device-body" rx=
+=3D"2" ry=3D"2" x=3D"0" y=3D"4" width=3D"16" height=3D"8" style=3D"opacity:=
+ 0;"></rect><g simcir-node-type=3D"in" class=3D"  simcir-node simcir-node-t=
+ype-in simcir-node-hot" transform=3D"translate(16 8)" simcir-transform-x=3D=
+"16" simcir-transform-y=3D"8" simcir-transform-rotate=3D"undefined" style=
+=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-n=
+ode-type=3D"out" class=3D" simcir-node simcir-node-type-out simcir-node-hot=
+" transform=3D"translate(0 8)" simcir-transform-x=3D"0" simcir-transform-y=
+=3D"8" simcir-transform-rotate=3D"undefined" style=3D"opacity: 0;"><circle =
+cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-device-label" =
+text-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"font-size: 12px; display: =
+none;">Joint</text><circle r=3D"2" class=3D"  simcir-connector simcir-joint=
+-point" cx=3D"0" cy=3D"8" style=3D"pointer-events: none; opacity: 1; displa=
+y: none;"></circle><path class=3D"  simcir-connector" d=3D"M16 8L0 8" style=
+=3D"pointer-events: none; opacity: 1;"></path><title>Double-Click to change=
+ a direction.</title></g><g class=3D"simcir-device" transform=3D"translate(=
+160 160)" simcir-transform-x=3D"160" simcir-transform-y=3D"160" simcir-tran=
+sform-rotate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=
+=3D"2" x=3D"0" y=3D"0" width=3D"32" height=3D"32"></rect><g simcir-node-typ=
+e=3D"in" class=3D"  simcir-node simcir-node-type-in simcir-node-hot" transf=
+orm=3D"translate(0 16)" simcir-transform-x=3D"0" simcir-transform-y=3D"16" =
+simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></c=
+ircle></g><text class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"1=
+6" y=3D"44" style=3D"font-size: 12px;">HALT</text><circle cx=3D"16" cy=3D"1=
+6" r=3D"8" stroke=3D"none" fill=3D"#cc0000"></circle><circle cx=3D"16" cy=
+=3D"16" r=3D"6.4" stroke=3D"none" fill=3D"#ff0000"></circle></g><g class=3D=
+"simcir-device" transform=3D"translate(128 96)" simcir-transform-x=3D"128" =
+simcir-transform-y=3D"96" simcir-transform-rotate=3D"undefined"><rect class=
+=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"4" y=3D"0" width=3D"8" heigh=
+t=3D"16" style=3D"opacity: 0;"></rect><g simcir-node-type=3D"in" class=3D" =
+ simcir-node simcir-node-type-in simcir-node-hot" transform=3D"translate(8 =
+16)" simcir-transform-x=3D"8" simcir-transform-y=3D"16" simcir-transform-ro=
+tate=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4">=
+</circle></g><g simcir-node-type=3D"out" class=3D" simcir-node simcir-node-=
+type-out simcir-node-hot" transform=3D"translate(8 0)" simcir-transform-x=
+=3D"8" simcir-transform-y=3D"0" simcir-transform-rotate=3D"undefined" style=
+=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=
+=3D"simcir-device-label" text-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"f=
+ont-size: 12px; display: none;">Joint</text><circle r=3D"2" class=3D"  simc=
+ir-connector simcir-joint-point" cx=3D"8" cy=3D"0" style=3D"pointer-events:=
+ none; opacity: 1; display: none;"></circle><path class=3D"  simcir-connect=
+or" d=3D"M8 16L8 0" style=3D"pointer-events: none; opacity: 1;"></path><tit=
+le>Double-Click to change a direction.</title></g><g class=3D"simcir-device=
+" transform=3D"translate(56 360)" simcir-transform-x=3D"56" simcir-transfor=
+m-y=3D"360" simcir-transform-rotate=3D"undefined"><rect class=3D"simcir-dev=
+ice-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"4" width=3D"16" height=3D"8" style=
+=3D"opacity: 0;"></rect><g simcir-node-type=3D"in" class=3D"  simcir-node s=
+imcir-node-type-in simcir-node-hot" transform=3D"translate(0 8)" simcir-tra=
+nsform-x=3D"0" simcir-transform-y=3D"8" simcir-transform-rotate=3D"undefine=
+d" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g =
+simcir-node-type=3D"out" class=3D" simcir-node simcir-node-type-out simcir-=
+node-hot" transform=3D"translate(16 8)" simcir-transform-x=3D"16" simcir-tr=
+ansform-y=3D"8" simcir-transform-rotate=3D"undefined" style=3D"opacity: 0;"=
+><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-devic=
+e-label" text-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"font-size: 12px; =
+display: none;">Joint</text><circle r=3D"2" class=3D"  simcir-connector sim=
+cir-joint-point" cx=3D"16" cy=3D"8" style=3D"pointer-events: none; opacity:=
+ 1;"></circle><path class=3D"  simcir-connector" d=3D"M0 8L16 8" style=3D"p=
+ointer-events: none; opacity: 1;"></path><title>Double-Click to change a di=
+rection.</title></g><g class=3D"simcir-device" transform=3D"translate(64 17=
+6)" simcir-transform-x=3D"64" simcir-transform-y=3D"176" simcir-transform-r=
+otate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=
+=3D"4" y=3D"0" width=3D"8" height=3D"16" style=3D"opacity: 0;"></rect><g si=
+mcir-node-type=3D"in" class=3D"  simcir-node simcir-node-type-in simcir-nod=
+e-hot" transform=3D"translate(8 16)" simcir-transform-x=3D"8" simcir-transf=
+orm-y=3D"16" simcir-transform-rotate=3D"undefined" style=3D"opacity: 0;"><c=
+ircle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"out" cl=
+ass=3D" simcir-node simcir-node-type-out simcir-node-hot" transform=3D"tran=
+slate(8 0)" simcir-transform-x=3D"8" simcir-transform-y=3D"0" simcir-transf=
+orm-rotate=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=
+=3D"4"></circle></g><text class=3D"simcir-device-label" text-anchor=3D"midd=
+le" x=3D"8" y=3D"24" style=3D"font-size: 12px; display: none;">Joint</text>=
+<circle r=3D"2" class=3D"  simcir-connector simcir-joint-point" cx=3D"8" cy=
+=3D"0" style=3D"pointer-events: none; opacity: 1; display: none;"></circle>=
+<path class=3D"  simcir-connector" d=3D"M8 16L8 0" style=3D"pointer-events:=
+ none; opacity: 1;"></path><title>Double-Click to change a direction.</titl=
+e></g><g class=3D" simcir-device simcir-basicset-switch" transform=3D"trans=
+late(80 160)" simcir-transform-x=3D"80" simcir-transform-y=3D"160" simcir-t=
+ransform-rotate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" r=
+y=3D"2" x=3D"0" y=3D"0" width=3D"32" height=3D"32"></rect><g simcir-node-ty=
+pe=3D"in" class=3D"  simcir-node simcir-node-type-in simcir-node-hot" trans=
+form=3D"translate(0 16)" simcir-transform-x=3D"0" simcir-transform-y=3D"16"=
+ simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></=
+circle></g><g simcir-node-type=3D"out" class=3D" simcir-node simcir-node-ty=
+pe-out simcir-node-hot" transform=3D"translate(32 16)" simcir-transform-x=
+=3D"32" simcir-transform-y=3D"16" simcir-transform-rotate=3D"undefined"><ci=
+rcle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-device-la=
+bel" text-anchor=3D"middle" x=3D"16" y=3D"44" style=3D"font-size: 12px;">To=
+ggle</text><rect x=3D"8" y=3D"8" width=3D"16" height=3D"16" rx=3D"2" ry=3D"=
+2" class=3D"  simcir-basicset-switch-button simcir-basicset-switch-button-p=
+ressed" style=3D"pointer-events: visiblepainted;"></rect></g><g class=3D"si=
+mcir-device" transform=3D"translate(120 168)" simcir-transform-x=3D"120" si=
+mcir-transform-y=3D"168" simcir-transform-rotate=3D"undefined"><rect class=
+=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"4" width=3D"16" heig=
+ht=3D"8" style=3D"opacity: 0;"></rect><g simcir-node-type=3D"in" class=3D" =
+ simcir-node simcir-node-type-in simcir-node-hot" transform=3D"translate(0 =
+8)" simcir-transform-x=3D"0" simcir-transform-y=3D"8" simcir-transform-rota=
+te=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></=
+circle></g><g simcir-node-type=3D"out" class=3D" simcir-node simcir-node-ty=
+pe-out simcir-node-hot" transform=3D"translate(16 8)" simcir-transform-x=3D=
+"16" simcir-transform-y=3D"8" simcir-transform-rotate=3D"undefined" style=
+=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=
+=3D"simcir-device-label" text-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"f=
+ont-size: 12px; display: none;">Joint</text><circle r=3D"2" class=3D"  simc=
+ir-connector simcir-joint-point" cx=3D"16" cy=3D"8" style=3D"pointer-events=
+: none; opacity: 1;"></circle><path class=3D"  simcir-connector" d=3D"M0 8L=
+16 8" style=3D"pointer-events: none; opacity: 1;"></path><title>Double-Clic=
+k to change a direction.</title></g><g class=3D"simcir-device" transform=3D=
+"translate(64 424)" simcir-transform-x=3D"64" simcir-transform-y=3D"424" si=
+mcir-transform-rotate=3D"undefined"><rect class=3D"simcir-device-body" rx=
+=3D"2" ry=3D"2" x=3D"4" y=3D"0" width=3D"8" height=3D"16" style=3D"opacity:=
+ 0;"></rect><g simcir-node-type=3D"in" class=3D"  simcir-node simcir-node-t=
+ype-in simcir-node-hot" transform=3D"translate(8 0)" simcir-transform-x=3D"=
+8" simcir-transform-y=3D"0" simcir-transform-rotate=3D"undefined" style=3D"=
+opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-=
+type=3D"out" class=3D" simcir-node simcir-node-type-out simcir-node-hot" tr=
+ansform=3D"translate(8 16)" simcir-transform-x=3D"8" simcir-transform-y=3D"=
+16" simcir-transform-rotate=3D"undefined" style=3D"opacity: 0;"><circle cx=
+=3D"0" cy=3D"0" r=3D"4"></circle></g><text class=3D"simcir-device-label" te=
+xt-anchor=3D"middle" x=3D"8" y=3D"24" style=3D"font-size: 12px; display: no=
+ne;">Joint</text><circle r=3D"2" class=3D"  simcir-connector simcir-joint-p=
+oint" cx=3D"8" cy=3D"16" style=3D"pointer-events: none; opacity: 1; display=
+: none;"></circle><path class=3D"  simcir-connector" d=3D"M8 0L8 16" style=
+=3D"pointer-events: none; opacity: 1;"></path><title>Double-Click to change=
+ a direction.</title></g><g class=3D"simcir-device" transform=3D"translate(=
+352 168)" simcir-transform-x=3D"352" simcir-transform-y=3D"168" simcir-tran=
+sform-rotate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=
+=3D"2" x=3D"0" y=3D"4" width=3D"16" height=3D"8" style=3D"opacity: 0;"></re=
+ct><g simcir-node-type=3D"in" class=3D" simcir-node simcir-node-type-in" tr=
+ansform=3D"translate(16 8)" simcir-transform-x=3D"16" simcir-transform-y=3D=
+"8" simcir-transform-rotate=3D"undefined" style=3D"opacity: 0;"><circle cx=
+=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"out" class=3D"s=
+imcir-node simcir-node-type-out" transform=3D"translate(0 8)" simcir-transf=
+orm-x=3D"0" simcir-transform-y=3D"8" simcir-transform-rotate=3D"undefined" =
+style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><text =
+class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"8" y=3D"24" style=
+=3D"font-size: 12px; display: none;">Joint</text><circle r=3D"2" class=3D" =
+ simcir-connector simcir-joint-point" cx=3D"0" cy=3D"8" style=3D"pointer-ev=
+ents: none; opacity: 1; display: none;"></circle><path class=3D"  simcir-co=
+nnector" d=3D"M16 8L0 8" style=3D"pointer-events: none; opacity: 1;"></path=
+><title>Double-Click to change a direction.</title></g><g class=3D" simcir-=
+device simcir-basicset-switch" transform=3D"translate(128 424)" simcir-tran=
+sform-x=3D"128" simcir-transform-y=3D"424" simcir-transform-rotate=3D"undef=
+ined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"0" =
+width=3D"32" height=3D"32"></rect><g simcir-node-type=3D"in" class=3D"  sim=
+cir-node simcir-node-type-in simcir-node-hot" transform=3D"translate(0 16)"=
+ simcir-transform-x=3D"0" simcir-transform-y=3D"16" simcir-transform-rotate=
+=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-nod=
+e-type=3D"out" class=3D" simcir-node simcir-node-type-out simcir-node-hot" =
+transform=3D"translate(32 16)" simcir-transform-x=3D"32" simcir-transform-y=
+=3D"16" simcir-transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=
+=3D"4"></circle></g><text class=3D"simcir-device-label" text-anchor=3D"midd=
+le" x=3D"16" y=3D"44" style=3D"font-size: 12px;">PushToReset</text><rect x=
+=3D"8" y=3D"8" width=3D"16" height=3D"16" rx=3D"2" ry=3D"2" class=3D"  simc=
+ir-basicset-switch-button" style=3D"pointer-events: visiblepainted;"></rect=
+></g><g class=3D" simcir-device simcir-basicset-osc" transform=3D"translate=
+(24 512)" simcir-transform-x=3D"24" simcir-transform-y=3D"512" simcir-trans=
+form-rotate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D=
+"2" x=3D"0" y=3D"0" width=3D"32" height=3D"32"></rect><g simcir-node-type=
+=3D"out" class=3D"  simcir-node simcir-node-type-out" transform=3D"translat=
+e(32 16)" simcir-transform-x=3D"32" simcir-transform-y=3D"16" simcir-transf=
+orm-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><te=
+xt class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"16" y=3D"44" s=
+tyle=3D"font-size: 12px;">CLK(1Hz)</text></g><g class=3D"simcir-device" tra=
+nsform=3D"translate(232 520)" simcir-transform-x=3D"232" simcir-transform-y=
+=3D"520" simcir-transform-rotate=3D"undefined"><rect class=3D"simcir-device=
+-body" rx=3D"2" ry=3D"2" x=3D"0" y=3D"4" width=3D"16" height=3D"8" style=3D=
+"opacity: 0;"></rect><g simcir-node-type=3D"in" class=3D" simcir-node simci=
+r-node-type-in" transform=3D"translate(0 8)" simcir-transform-x=3D"0" simci=
+r-transform-y=3D"8" simcir-transform-rotate=3D"undefined" style=3D"opacity:=
+ 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-node-type=3D"=
+out" class=3D"simcir-node simcir-node-type-out" transform=3D"translate(16 8=
+)" simcir-transform-x=3D"16" simcir-transform-y=3D"8" simcir-transform-rota=
+te=3D"undefined" style=3D"opacity: 0;"><circle cx=3D"0" cy=3D"0" r=3D"4"></=
+circle></g><text class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"=
+8" y=3D"24" style=3D"font-size: 12px; display: none;">Joint</text><circle r=
+=3D"2" class=3D"  simcir-connector simcir-joint-point" cx=3D"16" cy=3D"8" s=
+tyle=3D"pointer-events: none; opacity: 1; display: none;"></circle><path cl=
+ass=3D"  simcir-connector" d=3D"M0 8L16 8" style=3D"pointer-events: none; o=
+pacity: 1;"></path><title>Double-Click to change a direction.</title></g><g=
+ class=3D" simcir-device simcir-basicset-switch" transform=3D"translate(128=
+ 512)" simcir-transform-x=3D"128" simcir-transform-y=3D"512" simcir-transfo=
+rm-rotate=3D"undefined"><rect class=3D"simcir-device-body" rx=3D"2" ry=3D"2=
+" x=3D"0" y=3D"0" width=3D"32" height=3D"32"></rect><g simcir-node-type=3D"=
+in" class=3D"  simcir-node simcir-node-type-in" transform=3D"translate(0 16=
+)" simcir-transform-x=3D"0" simcir-transform-y=3D"16" simcir-transform-rota=
+te=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle></g><g simcir-n=
+ode-type=3D"out" class=3D"simcir-node simcir-node-type-out" transform=3D"tr=
+anslate(32 16)" simcir-transform-x=3D"32" simcir-transform-y=3D"16" simcir-=
+transform-rotate=3D"undefined"><circle cx=3D"0" cy=3D"0" r=3D"4"></circle><=
+/g><text class=3D"simcir-device-label" text-anchor=3D"middle" x=3D"16" y=3D=
+"44" style=3D"font-size: 12px;">clockOnOffSwitch</text><rect x=3D"8" y=3D"8=
+" width=3D"16" height=3D"16" rx=3D"2" ry=3D"2" class=3D"  simcir-basicset-s=
+witch-button" style=3D"pointer-events: visiblepainted;"></rect></g></g><g s=
+tyle=3D"pointer-events: none;"><path d=3D"M 384 96 L 368 96" class=3D" simc=
+ir-connector simcir-connector-hot"></path><path d=3D"M 384 112 L 360 112" c=
+lass=3D"simcir-connector"></path><path d=3D"M 384 128 L 344 128" class=3D" =
+simcir-connector simcir-connector-hot"></path><path d=3D"M 384 144 L 368 14=
+4" class=3D" simcir-connector simcir-connector-hot"></path><path d=3D"M 384=
+ 208 L 368 208" class=3D"simcir-connector"></path><path d=3D"M 384 224 L 36=
+0 224" class=3D"simcir-connector"></path><path d=3D"M 384 240 L 344 240" cl=
+ass=3D" simcir-connector simcir-connector-hot"></path><path d=3D"M 384 256 =
+L 352 256" class=3D" simcir-connector simcir-connector-hot"></path><path d=
+=3D"M 384 320 L 368 320" class=3D"simcir-connector"></path><path d=3D"M 384=
+ 336 L 360 336" class=3D"simcir-connector"></path><path d=3D"M 384 352 L 34=
+4 352" class=3D" simcir-connector simcir-connector-hot"></path><path d=3D"M=
+ 384 368 L 352 368" class=3D" simcir-connector simcir-connector-hot"></path=
+><path d=3D"M 352 144 L 352 256" class=3D" simcir-connector simcir-connecto=
+r-hot"></path><path d=3D"M 352 272 L 352 368" class=3D" simcir-connector si=
+mcir-connector-hot"></path><path d=3D"M 352 384 L 352 440" class=3D" simcir=
+-connector simcir-connector-hot"></path><path d=3D"M 344 144 L 344 240" cla=
+ss=3D" simcir-connector simcir-connector-hot"></path><path d=3D"M 344 256 L=
+ 344 352" class=3D" simcir-connector simcir-connector-hot"></path><path d=
+=3D"M 344 368 L 328 368" class=3D" simcir-connector simcir-connector-hot"><=
+/path><path d=3D"M 312 368 L 272 368" class=3D" simcir-connector simcir-con=
+nector-hot"></path><path d=3D"M 696 168 L 696 112" class=3D"simcir-connecto=
+r"></path><path d=3D"M 680 112 L 480 112" class=3D"simcir-connector"></path=
+><path d=3D"M 632 168 L 632 144" class=3D"simcir-connector"></path><path d=
+=3D"M 616 144 L 536 144" class=3D"simcir-connector"></path><path d=3D"M 536=
+ 160 L 536 224" class=3D"simcir-connector"></path><path d=3D"M 464 112 L 44=
+8 112" class=3D"simcir-connector"></path><path d=3D"M 464 336 L 448 336" cl=
+ass=3D"simcir-connector"></path><path d=3D"M 464 224 L 448 224" class=3D"si=
+mcir-connector"></path><path d=3D"M 360 128 L 360 224" class=3D"simcir-conn=
+ector"></path><path d=3D"M 360 240 L 360 336" class=3D"simcir-connector"></=
+path><path d=3D"M 360 352 L 360 528" class=3D"simcir-connector"></path><pat=
+h d=3D"M 368 192 L 368 176" class=3D"simcir-connector"></path><path d=3D"M =
+384 176 L 464 176" class=3D"simcir-connector"></path><path d=3D"M 584 184 L=
+ 576 184" class=3D"simcir-connector"></path><path d=3D"M 648 184 L 632 184"=
+ class=3D"simcir-connector"></path><path d=3D"M 712 184 L 696 184" class=3D=
+"simcir-connector"></path><path d=3D"M 304 328 L 272 368" class=3D" simcir-=
+connector simcir-connector-hot"></path><path d=3D"M 368 304 L 544 304" clas=
+s=3D"simcir-connector"></path><path d=3D"M 576 200 L 576 336" class=3D"simc=
+ir-connector"></path><path d=3D"M 560 336 L 480 336" class=3D"simcir-connec=
+tor"></path><path d=3D"M 560 304 L 560 288" class=3D"simcir-connector"></pa=
+th><path d=3D"M 512 264 L 496 264" class=3D"simcir-connector"></path><path =
+d=3D"M 512 280 L 496 280" class=3D"simcir-connector"></path><path d=3D"M 52=
+0 224 L 480 224" class=3D"simcir-connector"></path><path d=3D"M 480 280 L 4=
+80 336" class=3D"simcir-connector"></path><path d=3D"M 480 264 L 480 224" c=
+lass=3D"simcir-connector"></path><path d=3D"M 560 272 L 544 272" class=3D"s=
+imcir-connector"></path><path d=3D"M 336 440 L 272 440" class=3D" simcir-co=
+nnector simcir-connector-hot"></path><path d=3D"M 304 400 L 272 440" class=
+=3D" simcir-connector simcir-connector-hot"></path><path d=3D"M 240 368 L 1=
+84 368" class=3D" simcir-connector simcir-connector-hot"></path><path d=3D"=
+M 232 48 L 480 48" class=3D"simcir-connector"></path><path d=3D"M 480 64 L =
+480 112" class=3D"simcir-connector"></path><path d=3D"M 312 72 L 296 72" cl=
+ass=3D" simcir-connector simcir-connector-hot"></path><path d=3D"M 312 88 L=
+ 288 88" class=3D"simcir-connector"></path><path d=3D"M 368 80 L 344 80" cl=
+ass=3D" simcir-connector simcir-connector-hot"></path><path d=3D"M 480 352 =
+L 448 352" class=3D" simcir-connector simcir-connector-hot"></path><path d=
+=3D"M 496 32 L 496 352" class=3D" simcir-connector simcir-connector-hot"></=
+path><path d=3D"M 256 80 L 248 80" class=3D"simcir-connector"></path><path =
+d=3D"M 256 96 L 248 96" class=3D" simcir-connector simcir-connector-hot"></=
+path><path d=3D"M 232 80 L 232 64" class=3D"simcir-connector"></path><path =
+d=3D"M 296 56 L 296 32" class=3D" simcir-connector simcir-connector-hot"></=
+path><path d=3D"M 312 32 L 480 32" class=3D" simcir-connector simcir-connec=
+tor-hot"></path><path d=3D"M 272 176 L 248 176" class=3D" simcir-connector =
+simcir-connector-hot"></path><path d=3D"M 248 112 L 248 176" class=3D" simc=
+ir-connector simcir-connector-hot"></path><path d=3D"M 168 368 L 160 368" c=
+lass=3D" simcir-connector simcir-connector-hot"></path><path d=3D"M 184 192=
+ L 184 368" class=3D" simcir-connector simcir-connector-hot"></path><path d=
+=3D"M 192 176 L 184 176" class=3D" simcir-connector simcir-connector-hot"><=
+/path><path d=3D"M 232 176 L 224 176" class=3D" simcir-connector simcir-con=
+nector-hot"></path><path d=3D"M 184 424 L 184 368" class=3D" simcir-connect=
+or simcir-connector-hot"></path><path d=3D"M 480 176 L 480 112" class=3D"si=
+mcir-connector"></path><path d=3D"M 240 440 L 184 440" class=3D" simcir-con=
+nector simcir-connector-hot"></path><path d=3D"M 344 528 L 272 528" class=
+=3D"simcir-connector"></path><path d=3D"M 240 528 L 168 528" class=3D"simci=
+r-connector"></path></g><g style=3D"pointer-events: none;"></g></svg><texta=
+rea class=3D"  simcir-json-data-area" readonly=3D"readonly" style=3D"width:=
+ 800px; height: 600px; display: none;"></textarea></div></div>
+        <div>
+            <button id=3D"clearBtn">Clear</button>
+        </div>
+        <div>
+            Size<br>
+            <input id=3D"widthArea" type=3D"text" size=3D"4" maxlength=3D"4=
+">
+            x
+            <input id=3D"heightArea" type=3D"text" size=3D"4" maxlength=3D"=
+4">
+            <button id=3D"setSizeBtn">Set</button>
+        </div>
+        <div>
+            Circuit data<br>
+            <textarea id=3D"dataArea" style=3D"width:600px; height:200px;">=
+</textarea>
+            <button id=3D"setCircuitBtn">Set</button>
+        </div>
+   =20
+
+</body></html>
+------MultipartBoundary--WH5EMPpuL0gb8EnGz68szH8caQxMtmQYVSFRvITcam----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/mimuk/Downloads/simcirjs-master%20(1)/simcirjs-master/simcir.css
+
+@charset "utf-8";
+
+.simcir-body { display: inline-block; }
+
+.simcir-workspace { cursor: default; overflow: hidden; border-width: 1px; b=
+order-style: solid; border-color: rgb(102, 102, 102); }
+
+.simcir-pin-hole { fill: rgb(204, 204, 204); stroke: none; }
+
+.simcir-toolbox { fill: rgb(238, 238, 238); }
+
+.simcir-scrollbar { fill: rgb(204, 204, 204); }
+
+.simcir-scrollbar-bar { fill: rgb(170, 170, 170); }
+
+.simcir-scrollbar-bar:hover { fill: rgb(153, 153, 153); }
+
+.simcir-connector { stroke-width: 1; stroke: rgb(0, 0, 255); stroke-linecap=
+: round; }
+
+.simcir-connector-hot { }
+
+.simcir-joint-point { stroke-width: 3; }
+
+.simcir-device { fill: rgb(204, 204, 204); stroke-width: 2; stroke: rgb(102=
+, 102, 102); }
+
+.simcir-device-selected { stroke: rgb(0, 0, 255); }
+
+.simcir-device-label { fill: rgb(0, 0, 0); stroke-width: 0; stroke: none; }
+
+.simcir-selection-rect { fill: none; stroke-width: 1; stroke: rgb(0, 0, 255=
+); }
+
+.simcir-node-type-in { fill: rgb(255, 204, 0); }
+
+.simcir-node-type-out { fill: rgb(255, 255, 255); }
+
+.simcir-node { stroke-width: 1; stroke: rgb(0, 0, 0); }
+
+.simcir-node-hot { stroke: rgb(255, 0, 0); }
+
+.simcir-node-hover { stroke: rgb(255, 255, 0); }
+
+.simcir-node-label { fill: rgb(0, 0, 0); stroke: none; }
+
+.simcir-port { stroke-width: 1; stroke: rgb(0, 0, 0); }
+
+.simcir-port-hole { stroke: none; fill: rgb(0, 0, 0); }
+
+.simcir-json-data-area { padding: 0px; outline: none; border-width: 1px; bo=
+rder-style: solid; border-color: rgb(0, 0, 0); }
+
+.simcir-dialog { padding: 4px; border-width: 2px; border-style: solid; bord=
+er-color: rgb(102, 102, 102); background-color: rgb(255, 255, 255); box-sha=
+dow: rgba(0, 0, 0, 0.5) 0px 0px 4px 0px; }
+
+.simcir-dialog-title { margin-right: 4px; }
+
+.simcir-dialog-close-button { fill: rgb(102, 102, 102); stroke: none; }
+
+.simcir-dialog-close-button:hover { fill: rgb(136, 136, 136); stroke: none;=
+ }
+
+.simcir-dialog-close-button-symbol { fill: none; stroke: rgb(255, 255, 255)=
+; stroke-width: 2; }
+
+.simcir-label-editor { width: 100px; border-width: 1px; border-style: solid=
+; border-color: rgb(204, 204, 204); background-color: rgb(240, 240, 240); o=
+utline: none; }
+
+table.simcir-doc-table { border-collapse: collapse; }
+
+table.simcir-doc-table, table.simcir-doc-table th, table.simcir-doc-table t=
+d { border-width: 1px; border-style: solid; border-color: rgb(102, 102, 102=
+); }
+
+table.simcir-doc-table th, table.simcir-doc-table td { padding: 16px; }
+
+table.simcir-doc-params-table { border-collapse: collapse; }
+
+table.simcir-doc-params-table, table.simcir-doc-params-table th, table.simc=
+ir-doc-params-table td { border-width: 1px; border-style: solid; border-col=
+or: rgb(102, 102, 102); }
+
+table.simcir-doc-params-table th, table.simcir-doc-params-table td { paddin=
+g: 2px; }
+
+.simcir-doc-title { font-weight: bold; margin: 16px 0px 0px; }
+
+.simcir-doc-code { padding: 8px; border-radius: 4px; background-color: rgb(=
+240, 240, 240); }
+------MultipartBoundary--WH5EMPpuL0gb8EnGz68szH8caQxMtmQYVSFRvITcam----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/mimuk/Downloads/simcirjs-master%20(1)/simcirjs-master/simcir-basicset.css
+
+@charset "utf-8";
+
+.simcir-basicset-dc { fill: rgb(255, 204, 204); }
+
+.simcir-basicset-switch { fill: rgb(204, 204, 255); }
+
+.simcir-basicset-switch-button-pressed { fill: rgb(153, 153, 204); }
+
+.simcir-basicset-symbol { stroke: rgb(0, 0, 0); stroke-width: 1; stroke-lin=
+ecap: round; stroke-linejoin: round; fill: none; }
+
+.simcir-basicset-osc { fill: rgb(255, 204, 204); }
+
+.simcir-basicset-knob { stroke: none; fill: rgb(51, 51, 51); }
+
+.simcir-basicset-knob-mark { stroke: rgb(255, 255, 255); stroke-width: 3; }
+------MultipartBoundary--WH5EMPpuL0gb8EnGz68szH8caQxMtmQYVSFRvITcam------
